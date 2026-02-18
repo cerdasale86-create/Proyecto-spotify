@@ -1,0 +1,1405 @@
+﻿track_id;track_name;track_number;track_popularity;explicit;artist_name;artist_popularity;artist_followers;artist_genres;album_name;album_release_date;album_total_tracks;album_type;track_duration_min
+1;Trippy Mane (ft. Project Pat);4;0;TRUE;Diplo;77;2812821;moombahton;d00mscrvll, Vol. 1;31/10/2025;9;album;1.55
+2;OMG!;1;0;TRUE;Yelawolf;64;2363438;country hip hop, southern hip hop;OMG!;31/10/2025;1;single;3.07
+3;Hard 2 Find;1;4;TRUE;Riff Raff;48;193302;N/A;Hard 2 Find;31/10/2025;1;single;2.55
+4;Still Get Like That (ft. Project Pat & Starrah);8;30;TRUE;Diplo;77;2813710;moombahton;d00mscrvll, Vol. 1;31/10/2025;9;album;1.69
+5;ride me like a harley;2;0;TRUE;Rumelis;48;8682;dark r&b;come closer / ride me like a harley;30/10/2025;2;single;2.39
+6;BLEED;1;2;FALSE;Minzie;46;7218;dark r&b;BLEED;30/10/2025;3;single;2.76
+7;Te Procuro na Cidade;1;20;FALSE;AZERDK;30;1657;N/A;Te Procuro na Cidade;30/10/2025;1;single;4.12
+8;come closer;1;27;FALSE;Rumelis;49;8802;dark r&b;come closer / ride me like a harley;30/10/2025;2;single;2.53
+9;Cupido Vagabundo;1;16;FALSE;Toni dos Anjos;6;475;N/A;Cupido Vagabundo;30/10/2025;2;single;2.92
+10;LETâ€™S GO!;1;33;TRUE;PsychoYP;48;154802;nigerian drill, altÃ©, afro adura, afrobeats, afrobeat, afroswing;LETâ€™S GO!;28/10/2025;1;single;2.4
+11;Stray;1;30;FALSE;What Matters The Most;25;814;N/A;Stray;25/10/2025;4;single;2.49
+12;PAPARAZZI ARRIVE - English Ver.;1;48;FALSE;A2O;46;13826;c-pop;PAPARAZZI ARRIVE;24/10/2025;14;album;2.89
+13;Root of all Evil;5;65;FALSE;Daniel Caesar;85;11137714;N/A;Son Of Spergy;24/10/2025;12;album;4.41
+14;Letâ€™s Go!!;2;0;TRUE;Ovi Jozi;17;3567;N/A;High Risk, High Reward;24/10/2025;6;single;2.05
+15;MELODY - CHENYU & SHIJIE & QUCHANG;11;27;FALSE;A2O;46;13590;c-pop;PAPARAZZI ARRIVE;24/10/2025;14;album;4.25
+16;My Muse;2;67;TRUE;Leon Thomas;74;735818;N/A;PHOLKS;24/10/2025;7;single;2.75
+17;A Real Good Bad One;1;31;FALSE;Joe Hermes;23;1518;N/A;A Real Good Bad One;24/10/2025;1;single;2.73
+18;BOSS - English Ver.;3;33;FALSE;A2O;46;13826;c-pop;PAPARAZZI ARRIVE;24/10/2025;14;album;2.92
+19;Bridges;1;11;FALSE;Scarlett Butler;3;364;N/A;Bridges;24/10/2025;1;single;2.91
+20;Can't Go Back;1;30;FALSE;LEROCQUE;23;13770;N/A;Can't Go Back;24/10/2025;1;single;2.43
+21;Deeply Still;1;35;FALSE;Xander Ward;35;729;N/A;Deeply Still;24/10/2025;1;single;2.91
+22;Eggshell Tap Dancer;1;52;FALSE;The All-American Rejects;67;3134186;pop punk, emo;Eggshell Tap Dancer;24/10/2025;4;single;3.78
+23;Eyes on You;1;22;FALSE;Smith & Liddle;17;543;N/A;Eyes on You;24/10/2025;3;single;4.26
+24;superstar;2;59;TRUE;Artemas;74;1378935;N/A;LOVERCORE;24/10/2025;14;album;2.82
+25;Trim;1;1;TRUE;YUNG ALPO;24;166;N/A;Trim;24/10/2025;1;single;2.62
+26;Trip;14;32;FALSE;A2O;46;13826;c-pop;PAPARAZZI ARRIVE;24/10/2025;14;album;3.26
+27;HEARTBREAK SZN;1;32;TRUE;PRAX;23;1982;N/A;HEARTBREAK SZN;24/10/2025;1;single;2.89
+28;Higher Vibration;1;35;FALSE;Mark II;25;722;N/A;Higher Vibration (feat. Aleesia);24/10/2025;2;single;2.4
+29;Hold On (We Are Going Home);1;34;FALSE;Suark;32;1496;N/A;Hold On (We Are Going Home);24/10/2025;1;single;3.58
+30;Kay;1;2;FALSE;Vince Bello;6;84;N/A;Kay;24/10/2025;1;single;3.85
+31;you never really cared;1;31;FALSE;Anna Marx;34;1693;N/A;you never really cared;24/10/2025;1;single;2.37
+32;Master of the Kill;1;42;FALSE;Ana Shine;45;27570;N/A;Master of the Kill;23/10/2025;1;single;3.25
+33;Fool For You;1;25;FALSE;Stray Currents;20;1073;N/A;Fool For You;22/10/2025;1;single;3.07
+34;blonde eyes;1;25;FALSE;Sopperior;30;2891;N/A;orphic;21/10/2025;5;single;2.41
+35;limerence;2;13;FALSE;Sopperior;30;2896;N/A;orphic;21/10/2025;5;single;1.48
+36;Love Crazy - Stash Konig Remix;1;31;FALSE;MisterNez;18;200;N/A;Love Crazy (Stash Konig Remix);20/10/2025;1;single;3.26
+37;One More Time;5;6;FALSE;Fraser Stott;13;119;N/A;19;19/10/2025;9;album;3.94
+38;Nectar - B-Rain Remix;2;29;FALSE;Senhit;27;54636;N/A;Nectar (The Remixes);17/10/2025;3;single;2.95
+39;No Glory;1;52;FALSE;Besomorph;58;146944;slap house;No Glory;17/10/2025;1;single;2.37
+40;Dracula;3;80;TRUE;Tame Impala;84;9509731;neo-psychedelic, indie;Deadbeat;17/10/2025;12;album;3.42
+41;PSYCHWARD (with WesGhost ft. Project Pat);1;51;TRUE;Diplo;77;2812337;moombahton;PSYCHWARD;17/10/2025;4;single;2.88
+42;Where Have You Been;1;38;FALSE;Ken;50;7219;hypertechno;Where Have You Been;17/10/2025;1;single;2.08
+43;Great Tomorrow;1;3;FALSE;Kxng LeÃ³;1;177;N/A;Great Tomorrow;17/10/2025;1;single;2.21
+44;Hearts Grow Cold (Saint NoÃ«l) [feat. Olivia Cadenza];1;50;FALSE;Kayote;49;19306;N/A;Hearts Grow Cold (Saint NoÃªl) [feat. Olivia Cadenza];17/10/2025;1;single;2.65
+45;Talk To You (ft. Elton John);1;72;TRUE;Sam Fender;73;1204977;N/A;Talk To You (ft. Elton John);17/10/2025;1;single;5.28
+46;The Way I Am Now;1;25;FALSE;Lila Holler;17;1068;N/A;The Way I Am Now;17/10/2025;1;single;3.77
+47;Think About Us;1;68;FALSE;Sonny Fodera;66;306842;house;Think About Us;17/10/2025;1;single;2.96
+48;Trophy Wife;1;32;TRUE;Annalise Azadian;31;5701;N/A;Trophy Wife;17/10/2025;1;single;2.86
+49;baby can you sin for me;1;52;FALSE;Ex Habit;59;130408;dark r&b;baby can you sin for me;16/10/2025;1;single;2.69
+50;Wild Side;1;48;FALSE;Poul;53;1161;N/A;Wild Side;16/10/2025;1;single;2.5
+51;Amal;1;38;FALSE;Abeer Nehme;50;247771;sholawat, khaleeji;Amal;15/10/2025;1;single;3.88
+52;PIXELATED KISSES;1;88;TRUE;Joji;81;10638942;N/A;PIXELATED KISSES;14/10/2025;1;single;1.84
+53;MEGAFAUNA;1;24;TRUE;Stanza;10;218;N/A;MEGAFAUNA;14/10/2025;1;single;2.87
+54;2nd To Me;1;31;TRUE;Christian Kennedy;14;297;N/A;2nd To Me;13/10/2025;1;single;3.26
+55;Leavin;1;70;TRUE;Rod Wave;76;9673984;N/A;Leavin;13/10/2025;1;single;2.81
+56;Gone Gone Gone;1;79;FALSE;David Guetta;87;27141717;edm;Gone Gone Gone;10/10/2025;2;single;3.3
+57;Goodbye For Now;1;33;FALSE;Olivia Cox;18;1263;hipdut;Goodbye For Now;10/10/2025;1;single;3.5
+58;Here and Now (Where I Wanna Be);1;35;FALSE;Briezman;23;445;big room;Here and Now (Where I Wanna Be);10/10/2025;1;single;3.03
+59;Hold My Hand;1;35;FALSE;TAMMO;19;290;N/A;Hold My Hand;10/10/2025;1;single;4.4
+60;Part of Me;1;75;TRUE;A Boogie Wit da Hoodie;77;8986062;melodic rap;Part of Me;10/10/2025;1;single;2.78
+61;Run For The Hills;1;37;FALSE;Jason Charles Miller;43;17999;N/A;Run For The Hills;10/10/2025;1;single;3.12
+62;So Far;1;28;FALSE;Visibly True;20;114;N/A;So Far;10/10/2025;1;single;3.07
+63;Something Like This;1;33;FALSE;The Haygoods;20;7785;N/A;Something Like This;10/10/2025;1;single;2.22
+64;Stateside + Zara Larsson;10;74;FALSE;PinkPantheress;78;4761364;bedroom pop;Fancy Some More?;10/10/2025;31;album;3.07
+65;Constellations;1;68;FALSE;Ian Asher;70;223449;N/A;Constellations;10/10/2025;1;single;2.73
+66;Die On This Hill;1;76;FALSE;SIENNA SPIRO;66;182377;N/A;Die On This Hill;10/10/2025;3;single;3.61
+67;Distance Of Living;9;35;FALSE;Aresty.;17;4;N/A;Distance Of Living (This Life);10/10/2025;9;album;2.72
+68;EYES CLOSED (with ZAYN);1;88;FALSE;JISOO;73;7282227;k-pop;EYES CLOSED (with ZAYN);10/10/2025;1;single;3.02
+69;Getting Down;1;30;FALSE;gigi;13;5;N/A;Getting Down;10/10/2025;1;single;3.13
+70;Alarm;1;18;FALSE;Millo;5;429;N/A;Alarm;10/10/2025;1;single;3.02
+71;All Night Long;1;39;FALSE;KOLBEIN;28;631;hypertechno, melbourne bounce;All Night Long;10/10/2025;1;single;2.75
+72;ANYMORE;1;18;TRUE;ASH7ON;7;308;N/A;ANYMORE;10/10/2025;1;single;2.91
+73;Bad Boy;1;60;FALSE;KROMA;54;11283;hard techno;Bad Boy;10/10/2025;1;single;2.45
+74;Break Out;1;39;FALSE;zukrassverliebt;24;435;N/A;Break Out;10/10/2025;1;single;3.2
+75;Tropical Vacation;1;40;FALSE;Riff Raff;48;193279;N/A;Tropical Vacation;10/10/2025;1;single;2.92
+76;Chasing the Day;1;51;FALSE;TIMBER;32;37;N/A;Chasing the Day;9/10/2025;1;single;2.63
+77;Used To Love;1;35;FALSE;Maithili Raelle;19;2633;N/A;Used To Love;8/10/2025;1;single;2.21
+78;TBB;1;31;TRUE;Sabir;18;435;N/A;TBB;6/10/2025;1;single;2.41
+79;The Fate of Ophelia;1;87;FALSE;Taylor Swift;100;145443567;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;3.76
+80;The Life of a Showgirl (feat. Sabrina Carpenter);12;93;TRUE;Taylor Swift;100;145489371;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;4.02
+81;The Serpent;1;53;FALSE;Besomorph;58;146969;slap house;The Serpent;3/10/2025;1;single;3.25
+82;The Way I Know;1;29;FALSE;Padre TÃ³xico;26;13179;jazz rap;The Way I Know;3/10/2025;1;single;2.15
+83;Turn Back Time;1;25;FALSE;Orvyn Sol;15;48;N/A;Turn Back Time;3/10/2025;1;single;3.19
+84;Wait For You;1;42;FALSE;MEDZ;37;6199;melodic bass, future bass;Wait For You;3/10/2025;1;single;3.45
+85;Rare;1;39;TRUE;Edd Stark;28;405;chicago drill;Rare;3/10/2025;1;single;2.9
+86;Rock Your Body;2;28;FALSE;IV Tune;11;54;N/A;Fortune;3/10/2025;7;album;2.81
+87;Ruin The Friendship;6;92;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;3.67
+88;Monsters;1;38;TRUE;IAN SIZE;32;1844;melodic bass, nightcore, bass music;Monsters;3/10/2025;1;single;2.17
+89;Opalite;3;97;FALSE;Taylor Swift;100;145443567;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;3.92
+90;High Or Die;1;39;FALSE;Beatline;20;475;future house;High Or Die;3/10/2025;2;single;2.51
+91;Honey;11;91;TRUE;Taylor Swift;100;145489371;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;3.02
+92;i don't need ur love;1;55;TRUE;Rumelis;49;8741;dark r&b;i don't need ur love;3/10/2025;2;single;2.23
+93;It's Giving;1;40;FALSE;Third Vibes;24;3776;N/A;It's Giving;3/10/2025;1;single;2.49
+94;Actually Romantic;7;93;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;2.72
+95;Broken Glass;1;32;TRUE;Phay;20;5344;N/A;Broken Glass;3/10/2025;1;single;2.27
+96;CANCELLED!;10;93;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;3.52
+97;Wi$h Li$t;8;93;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;3.45
+98;Wood;9;93;TRUE;Taylor Swift;100;145443567;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;2.5
+99;you're a star;1;74;FALSE;Fred again..;77;2201446;stutter house, house;you're a star;3/10/2025;1;single;3.65
+100;Days Like These;3;75;FALSE;Luke Combs;83;13402920;country;The Prequel;3/10/2025;3;single;3.69
+101;Eldest Daughter;5;92;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;4.1
+102;Elizabeth Taylor;2;95;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;3.47
+103;Energy;1;40;FALSE;Tolou;28;4401;N/A;Energy;3/10/2025;1;single;3.04
+104;Father Figure;4;94;TRUE;Taylor Swift;100;145542136;country, pop, indie, folk;The Life of a Showgirl;3/10/2025;12;album;3.54
+105;Super Woman;2;35;FALSE;Haifa Wehbe;51;1151605;egyptian pop, khaleeji;Mega Haifa;2/10/2025;6;single;3.72
+106;The Fate of Ophelia;3;75;FALSE;Taylor Swift;100;145443567;country, pop, indie, folk;The Life of a Showgirl (Track by Track Version);2/10/2025;26;album;3.76
+107;Ties in Texas;1;42;FALSE;Lindsey Fish;23;3629;N/A;Ties in Texas;2/10/2025;1;single;3.11
+108;Till We Meet Again;1;52;FALSE;Van Herpen;37;1081;N/A;Till We Meet Again;2/10/2025;1;single;2.46
+109;VHS;1;36;FALSE;Eiza Murphy;20;4162;N/A;VHS;2/10/2025;1;single;3.57
+110;ÙŠØ§ Ù‚Ù„Ø¨ÙŠ Ø£Ù†Ø§;1;31;FALSE;Anthony Touma;20;3260;moroccan pop;ÙŠØ§ Ù‚Ù„Ø¨ÙŠ Ø£Ù†Ø§;2/10/2025;1;single;2.85
+111;Heisenberg;1;54;FALSE;Soolking;69;6204568;french rap, pop urbaine, french r&b, moroccan pop;Heisenberg;2/10/2025;1;single;2.51
+112;ENCOSTA NA QUEBRADA;1;11;TRUE;Tarja Preta 013;12;80;N/A;ENCOSTA NA QUEBRADA;1/10/2025;1;single;2.61
+113;MAD SCIENTIST;2;23;FALSE;Homeboy Delmar;13;22;N/A;CELEBRITY ON THE SAND;1/10/2025;5;single;2.51
+114;Pick A Side;1;46;TRUE;4ourty8;29;6670;N/A;Pick A Side;1/10/2025;1;single;2.33
+115;Something Must Sup;1;28;FALSE;Kaptain Swizzy;13;290;N/A;Something Must Sup;1/10/2025;1;single;2.99
+116;Still on the go;1;27;FALSE;KEV-Y;12;6;N/A;Still on the go;1/10/2025;1;single;3.66
+117;superstar;1;68;TRUE;Artemas;74;1377042;N/A;superstar;1/10/2025;3;single;2.82
+118;Touch Bress;1;26;TRUE;Fameboy BL;14;192;N/A;Touch Bress;30/9/2025;1;single;3.16
+119;Hot (Cut Water);1;24;TRUE;Big Jude;8;13;N/A;Hot (Cut Water);30/9/2025;1;single;1.7
+120;Don't Need Him;1;36;TRUE;Shelailai;23;2256;N/A;Don't Need Him;30/9/2025;1;single;2.57
+121;gigolo;1;77;TRUE;bbno$;78;2730121;N/A;gigolo;30/9/2025;1;single;1.97
+122;IÂ´m the Boss, You Know;1;17;TRUE;Camilla Sun;6;3;N/A;IÂ´m the Boss, You Know;29/9/2025;1;single;2.21
+123;Wall Flowers;1;56;FALSE;POW;45;73003;N/A;Wall Flowers;29/9/2025;1;single;3
+124;My New Ex;1;50;FALSE;Ana Shine;45;27570;N/A;My New Ex;28/9/2025;1;single;3.2
+125;Need You Know;12;43;FALSE;JD & The Straight Chasers;49;1874;N/A;Southern Comfort Classics (Deluxe Version);28/9/2025;14;album;2.6
+126;Picture;14;35;FALSE;JD & The Straight Chasers;49;1855;N/A;Southern Comfort Classics (Deluxe Version);28/9/2025;14;album;2.92
+127;You Make It Easy;11;39;FALSE;JD & The Straight Chasers;49;1874;N/A;Southern Comfort Classics (Deluxe Version);28/9/2025;14;album;2.08
+128;Chicken Fried;8;41;FALSE;JD & The Straight Chasers;49;1866;N/A;Southern Comfort Classics (Deluxe Version);28/9/2025;14;album;2.59
+129;Body;1;36;TRUE;Misfit Milli;22;90;jersey club;Body;27/9/2025;1;single;2.22
+130;By My Side;1;36;FALSE;Khari!;19;1413;N/A;By My Side;26/9/2025;1;single;2.82
+131;take a dive;1;36;FALSE;India Thieriot;24;2803;N/A;take a dive;26/9/2025;1;single;2.85
+132;TIT FOR TAT;1;91;TRUE;Tate McRae;88;9256589;pop;TIT FOR TAT;26/9/2025;1;single;2.93
+133;TNA;1;37;TRUE;Amb1shn;19;139;bongo flava;TNA;26/9/2025;1;single;3.03
+134;What You Is;1;74;TRUE;YoungBoy Never Broke Again;84;14936207;N/A;What You Is;26/9/2025;1;single;3.76
+135;Habibi;1;27;FALSE;Allison Amber Hage;18;69;N/A;Habibi;26/9/2025;1;single;2.83
+136;Come Find Me (with Clementine Douglas);1;68;FALSE;MK;69;354095;house;Come Find Me (with Clementine Douglas);26/9/2025;1;single;3.45
+137;Did You Cry;6;33;FALSE;Maggie Andrew;20;2448;N/A;HOW TO SING FOR MONEY;26/9/2025;7;single;2.74
+138;Dracula;1;85;TRUE;Tame Impala;84;9509731;neo-psychedelic, indie;Dracula;26/9/2025;3;single;3.42
+139;Feel Like This;1;49;FALSE;N'John;34;9375;N/A;Feel Like This;26/9/2025;1;single;2.62
+140;Flip Dat - feat. Babyface Ray;2;52;TRUE;Ashwin Gane;47;2695;hipdut;Flip Dat;26/9/2025;4;single;3.21
+141;You Showed Me Love;2;43;FALSE;Terry Parks;24;26;N/A;Heartfelt Media Group, Vol. 1;26/9/2025;24;album;4.51
+142;Let Me Know;1;29;FALSE;Kelsey Olivia;15;3150;N/A;Let Me Know;26/9/2025;1;single;3.63
+143;michigan;3;30;FALSE;Siena Fantini;13;183;indie r&b;what is it with me?;26/9/2025;4;single;4.42
+144;Movin' On;1;43;FALSE;Rob Wolf;25;1152;N/A;Movin' On;26/9/2025;1;single;3.36
+145;MY PEOPLE II;1;41;TRUE;Konet;25;569;afrobeat;MY PEOPLE II;26/9/2025;2;single;2.59
+146;No Shirt;1;39;TRUE;Rockstar Jt;25;10987;christian hip hop;No Shirt;26/9/2025;1;single;2.81
+147;nothing at all;1;33;TRUE;Elliot;20;4873;N/A;nothing at all;26/9/2025;1;single;3.47
+148;San Francisco;1;39;FALSE;Madi Rindge;23;3112;N/A;San Francisco;26/9/2025;1;single;3.37
+149;Save Me;1;41;FALSE;Happening Now;23;175;N/A;Save Me;26/9/2025;1;single;2.96
+150;SEXIFY;1;38;FALSE;Nick Hissom;22;2001;N/A;SEXIFY;26/9/2025;1;single;2.05
+151;So Easy (To Fall In Love);5;90;FALSE;Olivia Dean;88;1499215;pop soul;The Art of Loving;26/9/2025;12;album;2.81
+152;Rock Show;1;40;TRUE;Breakfast For Joey;23;114;N/A;Rock Show;25/9/2025;1;single;2.58
+153;Rolling Stone;1;34;TRUE;st.James;17;1254;N/A;Rolling Stone;25/9/2025;1;single;3.08
+154;SEEN THROUGH YOU;1;13;TRUE;SPTEMBRR;4;1909;N/A;SEEN THROUGH YOU;25/9/2025;1;single;2.95
+155;Alive;1;36;FALSE;Lafferty;18;181;N/A;Alive;25/9/2025;1;single;2.81
+156;Donâ€™t Listen;1;37;FALSE;Mblue;38;6157;N/A;Donâ€™t Listen;25/9/2025;1;single;2.9
+157;Finest Boy;1;21;FALSE;Boyshegz;7;3;N/A;Finest Boy;25/9/2025;1;single;2.8
+158;ADD;1;68;TRUE;Khantrast;62;394628;anime rap, anime;ADD;24/9/2025;1;single;2.62
+159;LEGENDARY;1;25;FALSE;Sawd Yute;9;36;N/A;LEGENDARY;24/9/2025;1;single;2.57
+160;Loader;1;37;FALSE;AthenaDME;22;178;3 step, gqom;D Main Event;24/9/2025;6;single;2.15
+161;Never Know What To Say;3;32;FALSE;Kris James;35;1803;N/A;Pixelated Heart;24/9/2025;14;album;2.76
+162;I Didn't Need Him;1;27;FALSE;Brooke Star;10;60;N/A;I Didn't Need Him;23/9/2025;1;single;3.61
+163;Question;6;18;FALSE;Benniee;16;104;N/A;From Something to Somewhere Else;21/9/2025;7;album;2.64
+164;SheÂ´s in the Game (Brazilian Funk);1;13;TRUE;Mc Slug;3;4;funk de bh, funk carioca;SheÂ´s in the Game (Brazilian Funk);20/9/2025;1;single;2.49
+165;Post Sex Clarity;8;78;FALSE;Lola Young;77;1461346;N/A;Iâ€™m Only F**king Myself;19/9/2025;14;album;4.36
+166;Pretty & Petty;13;74;TRUE;Cardi B;81;25953771;N/A;AM I THE DRAMA?;19/9/2025;23;album;3.05
+167;Psycho;1;44;FALSE;BURY;52;21748;dark r&b;Psycho;19/9/2025;3;single;3.07
+168;Pure Intoxication;7;27;FALSE;GINAxC;18;232;N/A;MY DNA;19/9/2025;12;album;2.55
+169;Rush From You;1;49;TRUE;Rumelis;49;8802;dark r&b;Rush From You;19/9/2025;2;single;2.51
+170;Safe (feat. Kehlani);8;75;TRUE;Cardi B;81;25953771;N/A;AM I THE DRAMA?;19/9/2025;23;album;2.96
+171;Holy Sin;1;47;FALSE;Besomorph;58;146969;slap house;Holy Sin;19/9/2025;1;single;2.42
+172;I Kill Spiders;1;35;FALSE;Libby Ember;19;181;N/A;I Kill Spiders;19/9/2025;4;single;3.69
+173;Magnet;3;71;TRUE;Cardi B;81;25957976;N/A;AM I THE DRAMA?;19/9/2025;23;album;2.97
+174;Man Ray;1;31;FALSE;Ananya;15;1068;N/A;Man Ray;19/9/2025;1;single;3.63
+175;Can't Take My Eyes Off You;1;38;FALSE;Sarah Berg;35;1843;N/A;Can't Take My Eyes Off You;19/9/2025;1;single;2.26
+176;DEPRESSED;1;69;TRUE;Anne-Marie;75;12848260;N/A;DEPRESSED;19/9/2025;1;single;2.3
+177;ErrTime;16;69;TRUE;Cardi B;81;25957976;N/A;AM I THE DRAMA?;19/9/2025;23;album;2.44
+178;Fly Before I Fall;3;31;FALSE;Tera Lynne Fister;22;1274;N/A;Flowers From The Ground Reimagined;19/9/2025;4;single;3.88
+179;Get Ready To Feel Good;1;22;FALSE;shotty;11;382;N/A;Get Ready To Feel Good;19/9/2025;1;single;3.92
+180;WHERE IS MY HUSBAND!;1;92;FALSE;RAYE;81;2853248;N/A;WHERE IS MY HUSBAND!;19/9/2025;1;single;3.27
+181;WHO;1;40;FALSE;TAILIAH BREON;22;49;N/A;WHO;19/9/2025;1;single;3.11
+182;Wire;2;42;TRUE;Laime;36;31236;altÃ©, nigerian drill, afrobeats, afrobeat;State of Emergency (Summer Never Happened);19/9/2025;3;single;2.95
+183;You Left;1;40;FALSE;shams;22;227;melodic bass;You Left;19/9/2025;1;single;3.97
+184;I Am Nobody;1;54;FALSE;MARE;50;3963;N/A;I Am Nobody;18/9/2025;1;single;2.25
+185;Search Party!;1;58;FALSE;The All-American Rejects;67;3134091;pop punk, emo;Search Party!;18/9/2025;3;single;4.38
+186;Shangri-La;1;39;FALSE;Egzod;62;225797;N/A;Shangri-La;18/9/2025;1;single;3.31
+187;Red Shredded Paper;11;26;FALSE;Lola Blanc;47;163172;N/A;Crowd Pleaser;17/9/2025;13;album;4.17
+188;Take My Hand;4;39;FALSE;Will Roush;33;6678;N/A;Water We Doing?;17/9/2025;4;single;3.22
+189;CRAVE;1;52;FALSE;Beneld;53;19064;dark r&b;CRAVE;17/9/2025;3;single;2.96
+190;Creme Brulee;2;44;FALSE;Will Roush;33;6685;N/A;Water We Doing?;17/9/2025;4;single;2.95
+191;Ghost Town;1;42;FALSE;Will Roush;33;6683;N/A;Water We Doing?;17/9/2025;4;single;3.08
+192;Obssessed;1;17;TRUE;Voncho;12;390;melodic rap;Obssessed;17/9/2025;1;single;3
+193;Amor Infinito;1;17;FALSE;Mauricio Maia;4;276;N/A;Amor infinito;17/9/2025;2;single;2.62
+194;Millionaire;1;47;TRUE;Lil Q;33;319;N/A;Millionaire;16/9/2025;1;single;3.01
+195;Rise of the Machines;1;16;FALSE;MARA;8;12;N/A;Rise of The Machines;15/9/2025;11;album;3.9
+196;Silicon Heart;5;16;FALSE;MARA;8;12;N/A;Rise of The Machines;15/9/2025;11;album;4.08
+197;I Need Some Time;4;17;TRUE;John Brandt;8;39;N/A;Midnight Musing;15/9/2025;6;single;4.6
+198;Falling Stars;1;43;TRUE;AZERDK;30;1655;N/A;Falling Stars;15/9/2025;1;single;4
+199;Eddie Kane - Radio Edit;8;10;FALSE;J.I.Bri;16;2177;N/A;The THRILL is Back, Vol. 1 (Clean Version);12/9/2025;11;album;3.26
+200;Funeral;1;41;FALSE;JeLa;44;1499;N/A;Funeral;12/9/2025;1;single;2.8
+201;Seventeen;1;27;FALSE;Kate Anstey;10;34;N/A;Seventeen;12/9/2025;1;single;3.2
+202;My Best;2;50;FALSE;A!MS;47;7071;N/A;Peak Season;12/9/2025;9;album;2.88
+203;Good Time Gone;1;53;FALSE;Lexie Stevenson;34;103;N/A;Good Time Gone;12/9/2025;1;single;3.4
+204;irl;1;42;FALSE;joegarratt;31;2956;future house;irl;12/9/2025;1;single;2.57
+205;TKO;4;49;TRUE;A!MS;47;7045;N/A;Peak Season;12/9/2025;9;album;2.02
+206;Aye Ma;1;40;TRUE;Big Swapp;22;32;N/A;Aye Ma;12/9/2025;1;single;1.69
+207;Bak 2 Bak;1;41;FALSE;Taene;33;1639;afrobeats;Bak 2 Bak;12/9/2025;1;single;2.99
+208;BASIC;1;33;TRUE;Lali Banks;15;39;N/A;BASIC;12/9/2025;1;single;2.13
+209;Camera;6;79;FALSE;Ed Sheeran;88;122773292;soft pop;Play;12/9/2025;13;album;3.59
+210;Chorei por AÃ­;1;15;FALSE;Marcos Neiva;7;1022;arrocha;Chorei por AÃ­;12/9/2025;1;single;2.97
+211;Posso AtÃ© NÃ£o Te Dar Flores;1;85;TRUE;DJ Japa NK;75;282947;brazilian funk, trap funk, funk consciente;Posso AtÃ© NÃ£o Te Dar Flores;11/9/2025;1;single;2.64
+212;Voy a Brillar (Reggae);1;16;FALSE;Serena Kaya;4;4;N/A;Voy a Brillar (Reggae);11/9/2025;1;single;2.73
+213;How It Goes;1;54;FALSE;Hanno;45;2752;N/A;How It Goes;11/9/2025;1;single;2.05
+214;Just Like Heaven - Live From Glastonbury;2;55;FALSE;Olivia Rodrigo;85;49083617;pop rock, alternative pop, pop punk;Friday I'm In Love / Just Like Heaven - Live From Glastonbury (A BBC Recording);8/9/2025;2;single;3.92
+215;Friday I'm In Love - Live From Glastonbury;1;61;FALSE;Olivia Rodrigo;84;49050008;pop rock, alternative pop, pop punk;Friday I'm In Love / Just Like Heaven - Live From Glastonbury (A BBC Recording);8/9/2025;2;single;4.11
+216;Engolindo a lua;1;30;FALSE;Dennis Lucca;20;1897;N/A;Engolindo a lua;6/9/2025;1;single;3.04
+217;Dangerous Love;1;44;FALSE;Mandrazo;48;10272;N/A;Dangerous Love;5/9/2025;3;single;2.81
+218;Gettin' Older (feat. YoungBoy Never Broke Again);1;54;TRUE;Jas Von;39;9729;N/A;Gettin' Older (feat. YoungBoy Never Broke Again);5/9/2025;1;single;2.78
+219;best. day. ever.;1;47;FALSE;Scoobert Doobert;36;5606;N/A;best. day. ever.;5/9/2025;1;single;2.63
+220;Bossa velha;1;28;FALSE;SEHORE;12;44;N/A;Husfikbur;5/9/2025;14;album;3.38
+221;Lonely Together;1;55;FALSE;Sickick;64;1211803;N/A;Lonely Together;5/9/2025;2;single;2.6
+222;LOVE SONG;3;75;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG II;5/9/2025;44;album;2.87
+223;Rose Colored Glasses;3;33;FALSE;America Allen;20;696;N/A;Lace to Ashes;4/9/2025;4;single;3.57
+224;The Dead Dance;1;84;FALSE;Lady Gaga;88;42237551;art pop, pop;The Dead Dance;3/9/2025;1;single;3.8
+225;The Beast;15;56;FALSE;Lady Gaga;88;42237551;art pop, pop;MAYHEM;1/9/2025;17;album;3.9
+226;The Dead Dance;9;80;FALSE;Lady Gaga;89;42275793;art pop, pop;MAYHEM;1/9/2025;17;album;3.8
+227;Vanish Into You;6;61;FALSE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;1/9/2025;17;album;4.08
+228;Die With A Smile;17;55;FALSE;Lady Gaga;88;42237551;art pop, pop;MAYHEM;1/9/2025;17;album;4.19
+229;Disease;1;61;FALSE;Lady Gaga;88;42237551;art pop, pop;MAYHEM;1/9/2025;17;album;3.83
+230;Don't Call Tonight;12;58;FALSE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;1/9/2025;17;album;3.76
+231;Garden Of Eden;3;62;FALSE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;1/9/2025;17;album;3.99
+232;Yonderer;1;37;FALSE;Cj Hooper;19;267;N/A;Yonderer;1/9/2025;1;single;3.47
+233;Zombieboy;8;60;FALSE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;1/9/2025;17;album;3.55
+234;How Bad Do U Want Me;11;60;TRUE;Lady Gaga;88;42237551;art pop, pop;MAYHEM;1/9/2025;17;album;3.98
+235;Kill For Love;13;66;FALSE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;1/9/2025;17;album;4.11
+236;Killah (feat. Gesaffelstein);7;59;TRUE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;1/9/2025;17;album;3.51
+237;Perfect Celebrity;4;60;FALSE;Lady Gaga;89;42275793;art pop, pop;MAYHEM;1/9/2025;17;album;3.82
+238;Shadow Of A Man;14;58;FALSE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;1/9/2025;17;album;3.32
+239;LoveDrug;10;60;FALSE;Lady Gaga;88;42237551;art pop, pop;MAYHEM;1/9/2025;17;album;3.22
+240;Machine;1;39;FALSE;Rob Thomas;62;973349;N/A;Machine;1/9/2025;4;single;2.67
+241;Abracadabra;2;62;FALSE;Lady Gaga;89;42275793;art pop, pop;MAYHEM;1/9/2025;17;album;3.72
+242;Blade Of Grass;16;55;FALSE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;1/9/2025;17;album;4.28
+243;Canâ€™t Stop the High;5;64;TRUE;Lady Gaga;88;42237551;art pop, pop;MAYHEM;1/9/2025;17;album;3.51
+244;still smokin;1;43;FALSE;RXRXBBIT;32;592;N/A;still smokin;31/8/2025;1;single;2.66
+245;PRICE;1;20;TRUE;Or Barak;12;2956;avant-garde;PRICE;29/8/2025;1;single;2.41
+246;Ridiculous - Stripped;1;31;FALSE;Sounds Kinda Good;19;88;N/A;Ridiculous (Stripped);29/8/2025;1;single;4.33
+247;Run Girl;1;44;FALSE;Nazaki;42;11904;N/A;Run Girl;29/8/2025;1;single;2.69
+248;When Did You Get Hot?;8;91;FALSE;Sabrina Carpenter;91;26538275;pop;Manâ€™s Best Friend;29/8/2025;12;album;2.42
+249;Sugar Talking;4;84;TRUE;Sabrina Carpenter;91;26559943;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.06
+250;Tears;2;92;FALSE;Sabrina Carpenter;91;26538275;pop;Manâ€™s Best Friend;29/8/2025;12;album;2.66
+251;Trapzzoid;1;39;FALSE;Riff Raff;48;193279;N/A;Trapzzoid;29/8/2025;1;single;2.32
+252;u don't have to tell me;2;65;FALSE;Artemas;74;1377042;N/A;eat me alive / u don't have to tell me;29/8/2025;2;single;2.26
+253;We Almost Broke Up Again Last Night;5;82;TRUE;Sabrina Carpenter;91;26559943;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.38
+254;Went Legit;1;44;TRUE;G Herbo;69;2482067;chicago drill, drill;Went Legit;29/8/2025;2;single;2.34
+255;De (feat. Savage Plug);3;46;FALSE;Wegz;61;7437933;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;3.41
+256;Donâ€™t Worry Iâ€™ll Make You Worry;10;81;TRUE;Sabrina Carpenter;91;26538275;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.7
+257;El Ayam;9;57;FALSE;Wegz;61;7429055;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;2.56
+258;Ezay Tfotny;11;48;FALSE;Wegz;61;7437933;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;3.16
+259;Ghareeba (feat. ZIAD ZAZA);10;49;FALSE;Wegz;61;7429055;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;4.12
+260;Girlfriend (feat. Tayc);6;50;FALSE;Wegz;61;7429055;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;2.83
+261;Afterparty;12;52;FALSE;Wegz;61;7433128;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;4.07
+262;Bad Days;4;54;FALSE;Wegz;61;7433128;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;3.26
+263;Bey Ulu ma y Ulu;2;53;FALSE;Wegz;61;7429055;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;2.81
+264;Capsula;7;41;FALSE;Wegz;61;7437933;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;0.55
+265;Go Go Juice;9;85;TRUE;Sabrina Carpenter;91;26516295;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.22
+266;Goodbye;12;84;TRUE;Sabrina Carpenter;91;26559943;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.75
+267;House Tour;11;87;FALSE;Sabrina Carpenter;91;26538275;pop;Manâ€™s Best Friend;29/8/2025;12;album;2.82
+268;In Retrospect;22;46;FALSE;RIELL;52;78423;N/A;Hymns For The Bitter;29/8/2025;22;album;2.67
+269;Khesert El Sha3b;1;50;FALSE;Wegz;61;7437933;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;2.07
+270;Let It Be Me;1;41;FALSE;CADMIUM;48;74002;N/A;Let It Be Me;29/8/2025;1;single;2.65
+271;Mama Afrikya (feat. Seyi Vibez);8;51;FALSE;Wegz;61;7437933;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;2.82
+272;Manchild;1;88;TRUE;Sabrina Carpenter;91;26559943;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.56
+273;Mazhar W Mal;5;50;FALSE;Wegz;61;7429055;egyptian hip hop, arabic hip hop, mahraganat, egyptian pop;Aqareb;29/8/2025;12;album;2.94
+274;My Man on Willpower;3;85;TRUE;Sabrina Carpenter;91;26559943;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.29
+275;Never Getting Laid;7;83;TRUE;Sabrina Carpenter;91;26516295;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.47
+276;Nobodyâ€™s Son;6;88;TRUE;Sabrina Carpenter;91;26538275;pop;Manâ€™s Best Friend;29/8/2025;12;album;3.04
+277;mafhashmafhash;6;49;FALSE;Marwan Moussa;61;2649787;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;2.35
+278;makan fi albak;8;51;FALSE;Marwan Moussa;61;2650667;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;2.83
+279;matador;1;49;FALSE;Marwan Moussa;61;2650667;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;3.08
+280;matrosh;2;43;FALSE;Marwan Moussa;61;2649787;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;2.17
+281;mshmawgood;7;42;FALSE;Marwan Moussa;61;2652612;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;2.51
+282;tefhaminish ghalat;4;43;FALSE;Marwan Moussa;61;2650667;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;2.72
+283;Sacrifice;1;50;FALSE;Elvis Drew;55;68465;dark r&b;Sacrifice;28/8/2025;1;single;3.3
+284;shaklekmagnona;5;51;FALSE;Marwan Moussa;61;2652612;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;2.48
+285;labubu;9;44;FALSE;Marwan Moussa;61;2649787;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;2.2
+286;Don't u cry;1;53;FALSE;Omido;58;72064;dark r&b;Don't u cry;28/8/2025;3;single;2.97
+287;el makaan;3;43;FALSE;Marwan Moussa;61;2649787;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;2.79
+288;faker bas nasy;10;47;FALSE;Marwan Moussa;61;2649787;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;MATADOR;28/8/2025;10;album;3.12
+289;Fish-Woman (POP Version);1;13;FALSE;Lucas Mazotti;3;3;N/A;Fish-Woman (POP Version);27/8/2025;1;single;2.63
+290;I Just Want a Kiss (Brazilian AxÃ© Version);1;13;FALSE;Lia Morena;3;2;N/A;I Just Want a Kiss (Brazilian AxÃ© Version);27/8/2025;1;single;2.49
+291;GlÃ³ria Meu Senhor;4;15;FALSE;Reginaldo de Oliveira;5;21;N/A;Reginaldo de Oliveira - As Melhores Volume 01;24/8/2025;12;album;3.83
+292;Quero Lhe Dizer;1;15;FALSE;Reginaldo de Oliveira;5;21;N/A;Reginaldo de Oliveira - As Melhores Volume 01;24/8/2025;12;album;4.53
+293;She Walked Away (Guitar Ballad Version);1;14;FALSE;NiloSerra;6;4;N/A;She Walked Away (Guitar Ballad Version);23/8/2025;1;single;3.71
+294;Overstimulated;9;34;FALSE;Unlike Pluto;57;398681;N/A;Kiss Collapse;22/8/2025;17;album;3.13
+295;Paranoia;11;34;FALSE;Unlike Pluto;57;398659;N/A;Kiss Collapse;22/8/2025;17;album;3.3
+296;Running Cold;1;53;FALSE;Besomorph;58;146944;slap house;Running Cold;22/8/2025;1;single;3.01
+297;Suckerpunch;16;31;FALSE;Unlike Pluto;57;398681;N/A;Kiss Collapse;22/8/2025;17;album;3.08
+298;Trance;2;37;FALSE;Unlike Pluto;57;398681;N/A;Kiss Collapse;22/8/2025;17;album;3.12
+299;under the mat;10;71;FALSE;sombr;85;2789144;N/A;I Barely Know Her;22/8/2025;10;album;4.74
+300;undressed;7;88;FALSE;sombr;85;2795852;N/A;I Barely Know Her;22/8/2025;10;album;3.03
+301;Unremember - Radio Mix;1;36;FALSE;Russell Watson;38;44378;N/A;Unremember (Radio Mix);22/8/2025;1;single;2.81
+302;we never dated;9;78;FALSE;sombr;85;2795852;N/A;I Barely Know Her;22/8/2025;10;album;3.28
+303;Weekend;1;44;FALSE;Jordana Bryant;38;60619;N/A;Weekend;22/8/2025;1;single;2.02
+304;Letting Go;4;37;FALSE;Unlike Pluto;57;398642;N/A;Kiss Collapse;22/8/2025;17;album;3.39
+305;Like You;1;35;FALSE;LEROCQUE;23;13839;N/A;Like You;22/8/2025;1;single;3.07
+306;Monsoon;2;55;FALSE;Emma Louise;53;88544;N/A;DUMB;22/8/2025;10;album;2.84
+307;Whisper to Me;13;32;FALSE;Unlike Pluto;57;398642;N/A;Kiss Collapse;22/8/2025;17;album;2.67
+308;Wrong;10;33;FALSE;Unlike Pluto;57;398659;N/A;Kiss Collapse;22/8/2025;17;album;3.26
+309;Hide my Tears;6;37;FALSE;Unlike Pluto;57;398642;N/A;Kiss Collapse;22/8/2025;17;album;2.64
+310;I know;1;40;FALSE;Pia Baris;24;2256;N/A;I know;22/8/2025;1;single;3.25
+311;i wish i knew how to quit you;3;78;FALSE;sombr;85;2795852;N/A;I Barely Know Her;22/8/2025;10;album;3.87
+312;I'm Nice Till I'm Not;1;40;FALSE;Kendra Erika;25;8363;french indie pop;I'm Nice Till I'm Not;22/8/2025;1;single;2.84
+313;If I Disappear;14;36;FALSE;Unlike Pluto;57;398659;N/A;Kiss Collapse;22/8/2025;17;album;3.15
+314;Insanium;15;34;FALSE;Unlike Pluto;57;398681;N/A;Kiss Collapse;22/8/2025;17;album;2.64
+315;Is My Vision Scarred;5;44;FALSE;Unlike Pluto;57;398681;N/A;Kiss Collapse;22/8/2025;17;album;3.8
+316;come closer;8;71;FALSE;sombr;85;2789144;N/A;I Barely Know Her;22/8/2025;10;album;3.23
+317;Crown;12;32;FALSE;Unlike Pluto;57;398642;N/A;Kiss Collapse;22/8/2025;17;album;2.91
+318;crushing;1;76;FALSE;sombr;85;2802094;N/A;I Barely Know Her;22/8/2025;10;album;3.45
+319;dime;6;68;FALSE;sombr;85;2795852;N/A;I Barely Know Her;22/8/2025;10;album;3.76
+320;12 to 12;2;89;FALSE;sombr;85;2795852;N/A;I Barely Know Her;22/8/2025;10;album;4.04
+321;50 50;8;33;FALSE;Unlike Pluto;57;398642;N/A;Kiss Collapse;22/8/2025;17;album;3
+322;After the Rain;17;33;FALSE;Unlike Pluto;57;398659;N/A;Kiss Collapse;22/8/2025;17;album;2.93
+323;back to friends;4;91;FALSE;sombr;85;2789144;N/A;I Barely Know Her;22/8/2025;10;album;3.31
+324;Bad Reaction;2;21;FALSE;L3NA;17;134;N/A;Bad Reaction;22/8/2025;4;single;2.74
+325;Betray;7;34;FALSE;Unlike Pluto;57;398681;N/A;Kiss Collapse;22/8/2025;17;album;2.94
+326;Bleed Me Dry;3;36;FALSE;Unlike Pluto;57;398681;N/A;Kiss Collapse;22/8/2025;17;album;3.16
+327;Bloom;1;38;FALSE;Shelita;23;462;N/A;Bloom;22/8/2025;1;single;3.41
+328;Boom;1;39;FALSE;Unlike Pluto;57;398659;N/A;Kiss Collapse;22/8/2025;17;album;2.85
+329;canal street;5;73;FALSE;sombr;85;2809275;N/A;I Barely Know Her;22/8/2025;10;album;5.04
+330;Summer Haze;1;34;FALSE;BETHY;18;824;N/A;Summer Haze;21/8/2025;1;single;4.06
+331;Jealous Type;1;81;TRUE;Doja Cat;86;34748949;N/A;Jealous Type;21/8/2025;1;single;2.72
+332;YouÂ´re my Best - Pop;1;16;FALSE;Samantha Lux;4;423;N/A;YouÂ´re my Best (Pop);20/8/2025;1;single;2.73
+333;Secrets with Strangers;1;48;FALSE;Skrizzly Adams;43;30470;N/A;Secrets with Strangers;19/8/2025;2;single;3.59
+334;Impressions;1;46;TRUE;Lil Q;33;321;N/A;Impressions;19/8/2025;1;single;2.2
+335;The Summerâ€™s Here;1;14;FALSE;The Queen Wasps;5;5;N/A;The Summerâ€™s Here;19/8/2025;1;single;3
+336;the happy you were after;1;36;FALSE;Anaumali;18;148;N/A;the happy you were after;15/8/2025;1;single;4.88
+337;Make Believe;1;65;FALSE;Luke Dean;60;27567;house;Make Believe;15/8/2025;1;single;3.08
+338;Man I Need;1;95;FALSE;Olivia Dean;88;1499215;pop soul;Man I Need;15/8/2025;3;single;3.06
+339;MEN DONT CRY;12;15;TRUE;Seven Kay;5;156;N/A;M.I.A;15/8/2025;14;album;3.88
+340;Golden Hour;1;45;FALSE;Xander Ward;35;729;N/A;Golden Hour;15/8/2025;1;single;3.18
+341;Southern Country Girl;1;49;FALSE;2'Live Bre;32;3893;christian hip hop;Southern Country Girl;15/8/2025;1;single;2.93
+342;downtown;1;62;TRUE;Lil Peep;82;15702014;emo rap, cloud rap;downtown;15/8/2025;1;single;2.03
+343;Fade;1;27;FALSE;Shelita;23;462;N/A;Fade;15/8/2025;1;single;3.75
+344;Flowers;1;30;FALSE;Stone Canyons;13;27;N/A;Flowers;15/8/2025;1;single;3.24
+345;Thats All I Do;1;12;TRUE;Christian Ray Taylor;2;10;N/A;Thats All I Do;14/8/2025;1;single;2.98
+346;I'm in Love;1;64;FALSE;ConKi;61;26095;N/A;I'm in Love;14/8/2025;1;single;2.63
+347;Iâ€™m All In (Rock 80`s Version);1;14;FALSE;The Raven Vox;4;8;N/A;Iâ€™m All In (Rock 80`s Version);12/8/2025;1;single;3.8
+348;goddamn;4;65;TRUE;mgk;78;5643375;N/A;lost americana;8/8/2025;13;album;3.11
+349;greece n' paris;1;38;TRUE;Orlando Kallen;25;2136;N/A;greece n' paris;8/8/2025;2;single;3.21
+350;Hell At Night (feat. Ella Langley);1;76;FALSE;BigXthaPlug;79;2059774;southern hip hop;Hell At Night (feat. Ella Langley);8/8/2025;1;single;2.98
+351;Holy Water;1;73;FALSE;Marshmello;80;34481381;edm;Holy Water;8/8/2025;1;single;2.49
+352;CRAZY;2;50;FALSE;Frankie Muriel;38;805;N/A;IM STILL STANDING;8/8/2025;9;album;3.9
+353;Get Down;1;49;TRUE;Uhfwea;30;193;N/A;Get Down;8/8/2025;1;single;1.85
+354;wgft (feat. Burna Boy);9;78;TRUE;Gunna;85;10342615;melodic rap;The Last Wun;8/8/2025;25;album;3.07
+355;Nights We Won't Remember;1;11;FALSE;Night Acclaim;2;940;N/A;What Just Happened?;8/8/2025;4;single;2.93
+356;PRAY;1;45;FALSE;Mandrazo;48;10272;N/A;PRAY;8/8/2025;3;single;3.14
+357;Good To You;1;29;FALSE;Lila Wilde;13;687;N/A;Good To You;7/8/2025;1;single;3.17
+358;need u;1;48;FALSE;Minzie;46;7240;dark r&b;need u;7/8/2025;3;single;2.43
+359;Clarity;1;53;FALSE;Hanno;45;2752;N/A;Clarity;7/8/2025;1;single;2.97
+360;forever be mine (feat. Wizkid);1;64;TRUE;Gunna;85;10342615;melodic rap;forever be mine (feat. Wizkid);7/8/2025;1;single;2.88
+361;Sunshine;2;42;TRUE;Luck;29;11860;N/A;It Wasn't Luck The LP;7/8/2025;17;album;3.6
+362;Take Me Thru Dere;5;69;TRUE;Metro Boomin;84;11683338;N/A;Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz);1/8/2025;24;album;2.71
+363;The Subway;1;87;TRUE;Chappell Roan;82;7310428;N/A;The Subway;1/8/2025;1;single;4.2
+364;What Love Feels Like (feat. Nathan Nicholson);1;50;FALSE;Frank Walker;50;114271;N/A;What Love Feels Like (feat. Nathan Nicholson);1/8/2025;1;single;3.35
+365;Crazy;1;72;TRUE;Myles Lloyd;56;38082;N/A;Crazy;1/8/2025;1;single;2.71
+366;Free Your Mind;1;26;FALSE;Honey Gentry;34;35406;N/A;Free Your Mind;1/8/2025;1;single;4.21
+367;I Think I Like You Better When Youâ€™re Gone;10;80;TRUE;ReneÃ© Rapp;72;1261419;N/A;BITE ME;1/8/2025;12;album;2.38
+368;Leave Me Alone;1;73;TRUE;ReneÃ© Rapp;72;1262133;N/A;BITE ME;1/8/2025;12;album;2.36
+369;No 1 But U;1;32;FALSE;Olivia Bragoli;20;1099;N/A;No 1 But U;1/8/2025;1;single;2.82
+370;Is It a Crime;1;69;TRUE;Mariah the Scientist;73;1178436;alternative r&b;Is It a Crime;31/7/2025;2;single;3.02
+371;Hurt Me Most;1;41;FALSE;weknewnothing;27;3637;N/A;Hurt Me Most;25/7/2025;6;single;2.36
+372;It Depends (feat. Bryson Tiller);1;79;TRUE;Chris Brown;87;28327351;r&b;It Depends (feat. Bryson Tiller);25/7/2025;1;single;4.53
+373;Back in the Saddle;1;76;FALSE;Luke Combs;83;13397845;country;Back in the Saddle;25/7/2025;1;single;3.55
+374;Which One (feat. Central Cee);1;83;TRUE;Drake;95;103067383;rap;Which One;25/7/2025;1;single;2.81
+375;WRONG;2;76;FALSE;Chris Grey;72;968416;dark r&b;FUNHOUSE / WRONG;25/7/2025;2;single;2.95
+376;My Girl;1;66;FALSE;Isabel LaRosa;71;2569728;N/A;My Girl;25/7/2025;1;single;2.95
+377;Talk Tonight;1;41;FALSE;Kenzo Cregan;27;3665;N/A;Talk Tonight;25/7/2025;2;single;3.1
+378;dÂ£aler;1;75;TRUE;Lola Young;77;1460038;N/A;dÂ£aler;25/7/2025;3;single;2.67
+379;End Of Summer;1;72;FALSE;Tame Impala;84;9509731;neo-psychedelic, indie;End Of Summer;25/7/2025;1;single;7.2
+380;Girlie-Pop!;1;34;FALSE;Amaarae;64;577324;altÃ©, afrobeats, afro r&b;Girlie-Pop!;25/7/2025;2;single;2.06
+381;12 to 12;1;85;FALSE;sombr;85;2802094;N/A;12 to 12;24/7/2025;1;single;4.04
+382;To Be Free;1;61;FALSE;Sam Smith;81;26278854;soft pop;To Be Free;24/7/2025;1;single;4.25
+383;Too Toxic;1;41;FALSE;Ashlee Keating;23;2754;N/A;Too Toxic;24/7/2025;1;single;2.43
+384;Kinda Like;1;45;FALSE;Bruklin;40;4550;N/A;Kinda Like;22/7/2025;1;single;2.72
+385;Na Sua EstaÃ§Ã£o;1;13;FALSE;Emm Nascimento;2;42;N/A;Na SUA ESTAÃ‡ÃƒO;22/7/2025;1;single;3.41
+386;Sugar On My Tongue;2;90;TRUE;Tyler, The Creator;86;24420596;N/A;DON'T TAP THE GLASS;21/7/2025;10;album;2.55
+387;Surrender;1;48;TRUE;Besomorph;58;146969;slap house;Surrender;18/7/2025;1;single;2.72
+388;third degree;1;41;TRUE;davvn;36;32967;N/A;third degree;18/7/2025;3;single;3.13
+389;Time;1;18;FALSE;Sim Lakia;4;810;N/A;Time;18/7/2025;1;single;2.78
+390;used to;1;34;FALSE;Alaina Castillo;46;173092;N/A;used to;18/7/2025;1;single;3.46
+391;Eternity;1;87;FALSE;Alex Warren;84;2885506;N/A;You'll Be Alright, Kid;18/7/2025;21;album;3.15
+392;All This Time;1;65;FALSE;Sonny Fodera;66;306513;house;All This Time;18/7/2025;1;single;3.73
+393;This is the Killer Speaking;1;59;TRUE;The Last Dinner Party;66;668762;N/A;This is the Killer Speaking;17/7/2025;1;single;4.91
+394;Happy Then;1;48;FALSE;AKI;45;754;N/A;Happy Then;17/7/2025;1;single;2.05
+395;I Canâ€™t Lose;1;62;FALSE;Jonas Brothers;75;7761454;N/A;I Can't Lose;16/7/2025;1;single;3.05
+396;Perfectly;1;57;FALSE;FKA twigs;63;1441722;art pop, alternative r&b;Perfectly;16/7/2025;1;single;3.84
+397;Vim Ti Agradecer;1;16;FALSE;Paulo Henrique David;14;979;agronejo;Vim Ti Agradecer;16/7/2025;1;single;4.74
+398;WANT U;1;43;FALSE;BURY;52;21811;dark r&b;WANT U;16/7/2025;3;single;2.59
+399;Real Love;1;36;FALSE;Antonin Herbeck;27;268;N/A;Real Love;12/7/2025;1;single;3.89
+400;SOULFUL;9;59;TRUE;Justin Bieber;91;85034636;pop, contemporary r&b;SWAG;11/7/2025;21;album;0.61
+401;STANDING ON BUSINESS;16;57;TRUE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;0.83
+402;GLORY VOICE MEMO;11;61;FALSE;Justin Bieber;91;85022258;pop, contemporary r&b;SWAG;11/7/2025;21;album;1.4
+403;GO BABY;4;75;FALSE;Justin Bieber;91;85034636;pop, contemporary r&b;SWAG;11/7/2025;21;album;3.24
+404;i lied;1;59;TRUE;Cheyanne;49;19227;dark r&b;i lied;11/7/2025;3;single;2.76
+405;i'm still alone;1;47;TRUE;sorry, alone;29;546;N/A;i'm still alone;11/7/2025;3;single;2.62
+406;JUMP;1;90;FALSE;BLACKPINK;81;56152334;k-pop;JUMP;11/7/2025;1;single;2.74
+407;405;17;63;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;3.54
+408;ALL I CAN TAKE;1;71;FALSE;Justin Bieber;91;85050158;pop, contemporary r&b;SWAG;11/7/2025;21;album;4.12
+409;Alright;1;45;FALSE;Scoobert Doobert;36;5521;N/A;Alright;11/7/2025;1;single;3.36
+410;BUTTERFLIES;6;67;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;3.22
+411;no one ever warns you;1;32;FALSE;Olivia Soli;15;2381;N/A;no one ever warns you;11/7/2025;1;single;3.25
+412;Out Of The Dark;1;52;FALSE;LMNT 115;35;5813;N/A;Out Of The Dark;11/7/2025;1;single;2.53
+413;SWAG;18;65;TRUE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;2.5
+414;SWEET SPOT;15;66;TRUE;Justin Bieber;91;85022258;pop, contemporary r&b;SWAG;11/7/2025;21;album;3.08
+415;THERAPY SESSION;14;58;TRUE;Justin Bieber;91;85022258;pop, contemporary r&b;SWAG;11/7/2025;21;album;1.31
+416;THINGS YOU DO;5;70;FALSE;Justin Bieber;91;85022258;pop, contemporary r&b;SWAG;11/7/2025;21;album;1.8
+417;TOO LONG;20;65;TRUE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;3.07
+418;Vodka Cranberry;1;72;FALSE;Conan Gray;79;12428221;N/A;Vodka Cranberry;11/7/2025;2;single;4.09
+419;WALKING AWAY;10;74;TRUE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;4.06
+420;WAY IT IS;7;71;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;3.25
+421;YUKON;3;86;FALSE;Justin Bieber;91;85034636;pop, contemporary r&b;SWAG;11/7/2025;21;album;2.73
+422;ZUMA HOUSE;19;59;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;1.38
+423;Crash the Car;1;23;FALSE;RiSi;11;1182;N/A;Crash the Car;11/7/2025;3;single;3.07
+424;DADZ LOVE;13;61;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;2.41
+425;DAISIES;2;91;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;2.94
+426;DEVOTION;12;72;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;3.9
+427;Eu confio em Deus;1;19;FALSE;Friends & Praise;5;37;N/A;Eu confio em Deus;11/7/2025;1;single;5.01
+428;FIRST PLACE;8;65;FALSE;Justin Bieber;91;85008100;pop, contemporary r&b;SWAG;11/7/2025;21;album;3.34
+429;FORGIVENESS;21;57;FALSE;Marvin Winans;47;168546;gospel, gospel r&b;SWAG;11/7/2025;21;album;1.51
+430;6 foot with my boots on;1;39;FALSE;Cwby;37;11588;N/A;6 foot with my boots on;4/7/2025;1;single;2.87
+431;u wanted me;1;38;FALSE;Waytoolost;21;169;N/A;u wanted me;3/7/2025;3;single;2.01
+432;Survive;1;78;FALSE;Lewis Capaldi;79;14043382;soft pop;Survive;27/6/2025;1;single;3.75
+433;Sweat On Your Skin;1;53;TRUE;Rumelis;48;8682;dark r&b;Sweat On Your Skin;27/6/2025;3;single;2.33
+434;Sweat On Your Skin - Slowed;2;46;TRUE;Rumelis;49;8802;dark r&b;Sweat On Your Skin;27/6/2025;3;single;2.47
+435;undertones (therapy on my wishlist);1;45;FALSE;Chelan;35;11991;N/A;undertones (therapy on my wishlist);27/6/2025;2;single;2.47
+436;David;11;78;FALSE;Lorde;80;10541250;N/A;Virgin;27/6/2025;11;album;3.41
+437;Dirty Work (feat. Flo Milli);2;54;TRUE;aespa;76;9769257;k-pop;Dirty Work;27/6/2025;4;single;3
+438;Last One To Know;1;72;FALSE;Gavin Adcock;71;476523;country, red dirt;Last One To Know;27/6/2025;2;single;2.95
+439;Always Love featuring Hyunjin (Stray Kids);1;72;FALSE;d4vd;79;4683168;N/A;Always Love featuring Hyunjin (Stray Kids);27/6/2025;1;single;3.3
+440;Beach Babe;1;44;FALSE;Xander Ward;35;729;N/A;Beach Babe;27/6/2025;3;single;3.55
+441;Casual;1;34;TRUE;Valentin;40;2157;N/A;Casual;27/6/2025;1;single;3.76
+442;Meant To Be;1;47;FALSE;Besomorph;58;146969;slap house;Meant To Be;27/6/2025;1;single;2.95
+443;On My Mind;1;70;FALSE;Alex Warren;84;2885506;N/A;On My Mind;27/6/2025;1;single;3.15
+444;not a love song;1;52;TRUE;Elvis Drew;55;68408;dark r&b;not a love song;26/6/2025;3;single;3.1
+445;F1;1;63;FALSE;Hans Zimmer;77;4780589;soundtrack;F1 The Album (Cinematic Edition);26/6/2025;32;album;3.22
+446;Free;8;91;FALSE;Rumi;72;220991;N/A;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;3.13
+447;Gabriela;1;92;FALSE;KATSEYE;82;5242034;k-pop;Gabriela;20/6/2025;2;single;3.28
+448;Not Like That Anymore;1;64;TRUE;Lola Young;77;1461346;N/A;Not Like That Anymore;20/6/2025;2;single;3.37
+449;Outside;1;67;TRUE;Cardi B;81;25956015;N/A;Outside;20/6/2025;1;single;3.44
+450;Phantom;8;82;TRUE;EsDeeKid;74;253650;N/A;Rebel;20/6/2025;11;album;1.82
+451;Soda Pop;3;94;FALSE;Saja Boys;80;2234812;N/A;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;2.51
+452;Strategy;5;84;FALSE;TWICE;83;23342437;k-pop;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;2.81
+453;Takedown;6;91;FALSE;HUNTR/X;87;3568209;k-pop;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;3.03
+454;TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG);1;86;FALSE;TWICE;83;23326731;k-pop;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;3.01
+455;What It Sounds Like;9;92;FALSE;HUNTR/X;87;3568209;k-pop;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;4.17
+456;6 Months Later;1;76;FALSE;Megan Moroney;73;1163610;country;6 Months Later;20/6/2025;1;single;3.04
+457;All over me;2;52;FALSE;HAIM;65;1436277;N/A;I quit;20/6/2025;15;album;3.37
+458;Golden;4;99;FALSE;HUNTR/X;87;3551538;k-pop;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;3.24
+459;How Itâ€™s Done;2;93;FALSE;HUNTR/X;87;3535849;k-pop;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;2.93
+460;You Don't;1;43;FALSE;Anna Marx;34;1693;N/A;You Don't;20/6/2025;3;single;2.36
+461;Your Idol;7;93;FALSE;Saja Boys;80;2234812;N/A;KPop Demon Hunters (Soundtrack from the Netflix Film);20/6/2025;12;album;3.19
+462;Wide Open Spaces;12;49;FALSE;Revline;47;505;country;The Garage Sessions;18/6/2025;12;album;2.33
+463;Perfect Timing;1;36;TRUE;YGF DEVO;24;162;N/A;Chasin A Mil Hosted by Bigga Rankin;18/6/2025;7;album;3.42
+464;Should've Been A Cowboy;6;50;FALSE;Revline;47;509;country;The Garage Sessions;18/6/2025;12;album;2.25
+465;Cruise;7;46;FALSE;Revline;47;491;country;The Garage Sessions;18/6/2025;12;album;3.44
+466;Drink In My Hand;2;48;FALSE;Revline;47;505;country;The Garage Sessions;18/6/2025;12;album;3.16
+467;Dust On The Bottle;4;50;FALSE;Revline;47;491;country;The Garage Sessions;18/6/2025;12;album;3.56
+468;Forever And Ever, Amen;10;48;FALSE;Revline;47;491;country;The Garage Sessions;18/6/2025;12;album;3.13
+469;Neon Moon;5;48;FALSE;Revline;47;498;country;The Garage Sessions;18/6/2025;12;album;2.6
+470;It's A Great Day To Be Alive;3;48;FALSE;Revline;47;505;country;The Garage Sessions;18/6/2025;12;album;2.43
+471;Til I'm Blue;4;48;FALSE;Alexander Nate;45;28641;N/A;There's No Signal In The Mountains (Deluxe);18/6/2025;9;album;3.42
+472;Wagon Wheel;11;49;FALSE;Revline;47;505;country;The Garage Sessions;18/6/2025;12;album;2.32
+473;Bad Habits;5;36;TRUE;YGF DEVO;24;162;N/A;Chasin A Mil Hosted by Bigga Rankin;18/6/2025;7;album;3.07
+474;Before He Cheats;9;45;FALSE;Revline;47;505;country;The Garage Sessions;18/6/2025;12;album;2.45
+475;Boot Scootin' Boogie;8;48;FALSE;Revline;47;491;country;The Garage Sessions;18/6/2025;12;album;2.56
+476;Chasinâ€™ a Mil;2;30;TRUE;YGF DEVO;24;162;N/A;Chasin A Mil Hosted by Bigga Rankin;18/6/2025;7;album;3.2
+477;Chattahoochee;1;48;FALSE;Revline;47;491;country;The Garage Sessions;18/6/2025;12;album;2.1
+478;Bleed;1;43;TRUE;NAYM;37;8703;dark r&b;Bleed;13/6/2025;3;single;2.54
+479;Time;1;14;FALSE;Dreycee;12;402;amapiano, afropiano;Time + Miami;13/6/2025;2;single;2.81
+480;Never Let This Go;2;21;FALSE;Alexander Merlin;27;1978;N/A;For The Love Of Progressive EP 5.0;13/6/2025;3;single;2.78
+481;HachikÅ;1;59;FALSE;Fujii Kaze;74;4571036;j-pop;HachikÅ;13/6/2025;1;single;4.5
+482;Folded;1;88;FALSE;Kehlani;78;8661889;N/A;Folded;11/6/2025;1;single;3.96
+483;BF;1;42;FALSE;YULEE;24;679;N/A;BF;11/6/2025;1;single;2.75
+484;Centerfold;1;40;TRUE;G-Epic;22;64;N/A;Centerfold;11/6/2025;1;single;3.07
+485;Aquamarine;4;70;FALSE;Addison Rae;74;1366758;N/A;Addison;6/6/2025;12;album;2.71
+486;Broken Halo;1;35;FALSE;Ericovich;41;11030;nightcore;Broken Halo;6/6/2025;1;single;2.42
+487;Headphones On;12;70;FALSE;Addison Rae;74;1366758;N/A;Addison;6/6/2025;12;album;4
+488;In The Rain;8;68;FALSE;Addison Rae;74;1364231;N/A;Addison;6/6/2025;12;album;3.56
+489;Couldn't Wait For You;1;44;FALSE;Jordan Parker;34;2657;N/A;Couldn't Wait For You;6/6/2025;1;single;3.33
+490;CUNTISSIMO;3;64;TRUE;MARINA;72;6114655;N/A;PRINCESS OF POWER;6/6/2025;13;album;4.01
+491;Diet Pepsi;2;82;FALSE;Addison Rae;74;1364231;N/A;Addison;6/6/2025;12;album;2.82
+492;Fame is a Gun;9;80;FALSE;Addison Rae;74;1364231;N/A;Addison;6/6/2025;12;album;3.05
+493;Fight Like A Girl (feat. K.Flay);1;50;FALSE;Evanescence;75;6165678;alternative metal;Fight Like A Girl (feat. K.Flay);6/6/2025;1;single;3.1
+494;LIKE YOU DO;1;39;FALSE;NJOMZA;45;50314;N/A;LIKE YOU DO;6/6/2025;1;single;3.83
+495;Love Again;1;38;FALSE;Kenzo Cregan;27;3666;N/A;Love Again;6/6/2025;1;single;3.24
+496;No Broke Boys;1;92;TRUE;Disco Lines;75;275333;stutter house;No Broke Boys;6/6/2025;1;single;2.73
+497;Times Like These;10;67;FALSE;Addison Rae;74;1364231;N/A;Addison;6/6/2025;12;album;3.87
+498;Sapphire;1;83;FALSE;Ed Sheeran;88;122802777;soft pop;Sapphire;5/6/2025;1;single;2.98
+499;Manchild;1;86;TRUE;Sabrina Carpenter;91;26516295;pop;Manchild;5/6/2025;1;single;3.56
+500;LEMON NOD;1;39;TRUE;Flight;37;103691;N/A;LEMON NOD;1/6/2025;1;single;1.9
+501;Nice To Each Other;1;86;FALSE;Olivia Dean;88;1524283;pop soul;Nice To Each Other;30/5/2025;1;single;3.48
+502;THE LOVER;4;42;FALSE;Kae;50;25025;dark r&b;XAOS;30/5/2025;8;album;2.34
+503;Zombie;1;69;FALSE;YUNGBLUD;73;3204129;N/A;Zombie;30/5/2025;3;single;4.11
+504;Just Keep Watching (From F1Â® The Movie);1;90;FALSE;Tate McRae;88;9256589;pop;Just Keep Watching (From F1Â® The Movie);30/5/2025;1;single;2.37
+505;Easy Lover;6;68;FALSE;Miley Cyrus;81;26561582;country pop, rock, hip hop, experimental;Something Beautiful;30/5/2025;13;album;3.11
+506;End of the World;3;66;FALSE;Miley Cyrus;81;26564677;country pop, rock, hip hop, experimental;Something Beautiful;30/5/2025;13;album;4.17
+507;Fame is a Gun;1;72;FALSE;Addison Rae;74;1364231;N/A;Fame is a Gun;30/5/2025;1;single;3.05
+508;Fiction;1;39;FALSE;Xander Ward;34;727;N/A;Fiction;30/5/2025;2;single;2.88
+509;Girls Like You;1;63;FALSE;Sofia Camara;59;92183;N/A;Girls Like You;30/5/2025;1;single;3.59
+510;Man Of The Year;1;36;FALSE;Lorde;80;10539134;N/A;Man Of The Year;29/5/2025;2;single;3
+511;Miracle;1;27;FALSE;Millows;41;2489;hypertechno;Miracle;29/5/2025;1;single;2.2
+512;No Division (feat. XSALT);1;58;FALSE;Charlotte de Witte;60;1214137;acid techno, techno, hard techno, tekno;No Division;29/5/2025;2;single;6.11
+513;Not Possible;1;55;FALSE;Ana Shine;45;27568;N/A;Not Possible;29/5/2025;1;single;2.55
+514;STRONG MEN;8;21;TRUE;Og1savage;6;141;highlife;INNOCENT STILL THUGGIN;24/5/2025;13;album;2.52
+515;The Reason;6;35;FALSE;League Minimum;40;507;N/A;4th Liners;23/5/2025;11;album;2.22
+516;Mina Kupenda;1;67;FALSE;Thierry Von Der Warth;62;47263;tropical house;Mina Kupenda;23/5/2025;1;single;2.06
+517;clichÃ©;1;53;FALSE;mgk;78;5642925;N/A;clichÃ©;23/5/2025;1;single;2.93
+518;Get Gone;1;37;FALSE;Munboi;24;818;N/A;Get Gone;23/5/2025;3;single;2.48
+519;3AM;3;36;FALSE;League Minimum;40;502;N/A;4th Liners;23/5/2025;11;album;2.52
+520;Breakeven;1;48;FALSE;League Minimum;40;507;N/A;4th Liners;23/5/2025;11;album;2.64
+521;Can't Decide;1;73;FALSE;Max Dean;59;45843;house;Can't Decide;23/5/2025;1;single;2.92
+522;Somewhere Over Laredo;1;69;FALSE;Lainey Wilson;73;1538992;country;Somewhere Over Laredo;23/5/2025;1;single;3.76
+523;Bloodline;1;79;FALSE;Alex Warren;84;2896488;N/A;Bloodline;22/5/2025;1;single;3.03
+524;Under Your Skin;1;44;FALSE;Bruklin;40;4549;N/A;Under Your Skin;20/5/2025;1;single;3
+525;I.R.M.F.;1;23;TRUE;Lyrical Reign;8;34;N/A;I.R.M.F.;19/5/2025;1;single;3.02
+526;farewell, kacey;2;34;FALSE;Sopperior;30;2957;N/A;tree;17/5/2025;3;single;1.31
+527;Come On Home;1;21;FALSE;The Sound Mind Network;6;46;N/A;Come On Home;16/5/2025;1;single;3.75
+528;Donâ€™t Say You Love Me;1;88;FALSE;Jin;80;9703374;k-pop;Echo;16/5/2025;7;album;3.01
+529;I Got Better;2;54;FALSE;Morgan Wallen;88;13999205;country;Iâ€™m The Problem;16/5/2025;37;album;3.41
+530;20 Cigarettes;11;49;FALSE;Morgan Wallen;88;14005617;country;Iâ€™m The Problem;16/5/2025;37;album;2.68
+531;Afrocat (Fortune Cookie);1;41;FALSE;Sandra Iris;37;2184;N/A;Afrocat (Fortune Cookie);16/5/2025;3;single;2.08
+532;Miss You;1;40;FALSE;Ali Gatie;64;2174956;N/A;Miss You;16/5/2025;1;single;2.18
+533;Monster Paradise;1;65;FALSE;Naeleck;66;115232;electro house;Monster Paradise;16/5/2025;1;single;2.75
+534;One Thing;1;78;TRUE;Lola Young;77;1462626;N/A;One Thing;16/5/2025;1;single;3.48
+535;What I Want (feat. Tate McRae);4;86;FALSE;Morgan Wallen;88;14005617;country;Iâ€™m The Problem;16/5/2025;37;album;3.07
+536;Bottle Rockets (feat. Hootie & The Blowfish);1;71;FALSE;Scotty McCreery;61;1143926;country, acoustic country;Bottle Rockets (feat. Hootie & The Blowfish);15/5/2025;1;single;3.92
+537;Head;2;38;FALSE;Ava Beathard;26;7366;N/A;indiemono | hope fields (VOL.8);15/5/2025;10;compilation;3.66
+538;The Good Life;1;52;FALSE;R2;42;483;N/A;The Good Life;14/5/2025;1;single;2.35
+539;Tonight;1;49;TRUE;Rumelis;49;8802;dark r&b;Tonight;9/5/2025;3;single;2.51
+540;Illegal;1;81;FALSE;PinkPantheress;78;4759233;bedroom pop;Fancy That;9/5/2025;9;album;2.49
+541;Breathe;1;39;FALSE;Skinny Dippers;26;4188;N/A;Breathe;9/5/2025;1;single;3.05
+542;LIFESTYLE;1;38;TRUE;Paul James;24;671;N/A;LIFESTYLE;9/5/2025;1;single;3.03
+543;moody;1;63;TRUE;Royel Otis;73;576895;indie;moody;9/5/2025;1;single;2.93
+544;Young & Dumb (feat. Simple Plan);1;61;FALSE;Avril Lavigne;76;12004691;N/A;Young & Dumb (feat. Simple Plan);9/5/2025;1;single;2.77
+545;Good Love;6;12;FALSE;L. Charlemagne;2;33;drumstep;Chase the Sun;7/5/2025;11;album;3.3
+546;Beast Mode;1;12;FALSE;DJ Khamel;8;10;N/A;Workout & Running;7/5/2025;18;album;2.3
+547;Shot Callin;1;73;TRUE;YoungBoy Never Broke Again;85;14958573;N/A;Shot Callin;6/5/2025;1;single;3.75
+548;Priceless (feat. LISA);1;70;FALSE;Maroon 5;85;45764832;pop;Priceless (feat. LISA);2/5/2025;1;single;2.72
+549;She Ready;7;63;TRUE;Key Glock;73;2398201;N/A;Glockaveli;2/5/2025;18;album;2.98
+550;TU SANCHO;8;87;TRUE;Fuerza Regida;89;19797218;corrido, corridos tumbados, corridos bÃ©licos, mÃºsica mexicana, sierreÃ±o, banda, electro corridos, sad sierreÃ±o;111XPANTIA;2/5/2025;12;album;2.96
+551;Burning Blue;1;72;FALSE;Mariah the Scientist;73;1180085;alternative r&b;Burning Blue;2/5/2025;1;single;3.42
+552;Marlboro Rojo;9;87;TRUE;Fuerza Regida;89;19735177;corrido, corridos tumbados, corridos bÃ©licos, mÃºsica mexicana, sierreÃ±o, banda, electro corridos, sad sierreÃ±o;111XPANTIA;2/5/2025;12;album;3.06
+553;Amanhecer;1;5;FALSE;Daya Blaze;2;0;N/A;Amanhecer;1/5/2025;1;single;3.01
+554;Lose My Mind (feat. Doja Cat) [From F1Â® The Movie];1;83;FALSE;Don Toliver;85;7465428;N/A;Lose My Mind (feat. Doja Cat) [From F1Â® The Movie];30/4/2025;1;single;3.48
+555;Gnarly;1;88;TRUE;KATSEYE;82;5242034;k-pop;Gnarly;30/4/2025;1;single;2.28
+556;I Been On;1;24;TRUE;Commma;8;155;N/A;I Been On;30/4/2025;1;single;3.13
+557;Bad Habit;1;46;TRUE;Sadfriendd;56;130326;phonk, drift phonk;Bad Habit;29/4/2025;1;single;1.99
+558;"The Path - from The Last of Us: Season 2""""";1;28;FALSE;Gustavo Santaolalla;63;394210;soundtrack;"The Path (from The Last of Us: Season 2"")""";28/4/2025;1;single;2.24
+559;touch me;1;53;TRUE;Ex Habit;59;130194;dark r&b;touch me;25/4/2025;3;single;2.73
+560;Pray To Me;1;44;FALSE;Besomorph;58;146944;slap house;Pray To Me;25/4/2025;1;single;2.75
+561;Prove It!;1;46;FALSE;Sam Plourd;28;309;N/A;Prove It!;25/4/2025;1;single;3.85
+562;Sailor Song;1;86;FALSE;Gigi Perez;75;1643950;N/A;At The Beach, In Every Life;25/4/2025;12;album;3.53
+563;Sirius;1;41;FALSE;Sandra Iris;37;2091;N/A;Sirius;25/4/2025;2;single;2.75
+564;Feel It;11;30;FALSE;d4vd;79;4684957;N/A;WITHERED;25/4/2025;15;album;2.63
+565;Engraved On Your Skin;1;47;FALSE;Elvis Drew;55;68465;dark r&b;Engraved On Your Skin;24/4/2025;3;single;3.46
+566;What Was That;1;41;FALSE;Lorde;80;10539134;N/A;What Was That;24/4/2025;1;single;3.48
+567;Amen;1;56;FALSE;Shaboozey;75;1448613;N/A;Amen;24/4/2025;1;single;3.29
+568;Mystical Magical;1;82;FALSE;Benson Boone;83;7045466;N/A;Mystical Magical;24/4/2025;1;single;2.76
+569;77 - feat. Avril Lavigne;1;44;FALSE;Billy Idol;71;2462227;N/A;77 (feat. Avril Lavigne);22/4/2025;2;single;2.89
+570;FREAKY;1;19;TRUE;Daveedtheking;5;58;N/A;FREAKY;19/4/2025;1;single;2.58
+571;Crowd Caffeine;1;50;FALSE;SOFIA ISELLA;55;557085;N/A;Crowd Caffeine;18/4/2025;3;single;3.37
+572;Don't Fall In Love;1;49;TRUE;Rumelis;49;8741;dark r&b;Don't Fall In Love;18/4/2025;3;single;2.52
+573;En 4;1;57;TRUE;Kenia Os;70;6640767;reggaeton mexa;En 4;18/4/2025;1;single;3.1
+574;Famous;1;52;FALSE;Isabel LaRosa;71;2571784;N/A;Raven;18/4/2025;14;album;2.98
+575;Breathe;1;47;FALSE;Beneld;53;19064;dark r&b;Breathe;18/4/2025;3;single;2.74
+576;Real Life Fantasy;1;36;FALSE;Edward Maya;66;342955;N/A;Real Life Fantasy;18/4/2025;1;single;2.46
+577;Smokestack Twins;2;48;FALSE;Ludwig GÃ¶ransson;64;425177;soundtrack;Sinners (Original Motion Picture Score);18/4/2025;19;album;3.47
+578;NEVER EVER;1;55;FALSE;Omido;59;72278;dark r&b;NEVER EVER;18/4/2025;3;single;2.98
+579;Vem Nin Mim BebÃª;1;31;FALSE;TÃšLIO PEREIRA;13;17;N/A;Vem Nin Mim BebÃª;18/4/2025;1;single;3.13
+580;Headphones On;1;65;FALSE;Addison Rae;74;1364231;N/A;Headphones On;18/4/2025;1;single;4
+581;I Wanna Be Yours - Namira Remix - Radio Edit;1;36;FALSE;Namira;18;91;N/A;I Wanna Be Yours - Namira Remix (Radio Edit);18/4/2025;1;single;2.85
+582;In The Air Tonight;1;55;FALSE;Marilyn Manson;71;4968982;industrial metal, industrial rock, industrial, metal, nu metal;In The Air Tonight;18/4/2025;2;single;5.02
+583;Street Stories;3;4;FALSE;Daya Blaze;2;0;N/A;Concrete Dreams;16/4/2025;6;single;3.42
+584;Blue Strips;1;74;FALSE;Jessie Murph;76;1626341;N/A;Blue Strips;11/4/2025;2;single;2.45
+585;conversations;1;36;TRUE;Chelan;35;11989;N/A;conversations;11/4/2025;1;single;2.35
+586;Five Roses;1;38;FALSE;Nic Dean;41;30239;dark r&b;Five Roses;11/4/2025;2;single;1.85
+587;Forever;1;70;FALSE;ZULAN;53;33160;uk garage;Forever;11/4/2025;1;single;2.65
+588;Ghosttown;1;44;FALSE;BURY;52;21748;dark r&b;Ghosttown;11/4/2025;3;single;2.1
+589;What An Awesome God;1;67;FALSE;Phil Wickham;70;1300663;worship, christian, ccm;What An Awesome God;11/4/2025;6;single;3.53
+590;Ubatuba;1;12;FALSE;DJ Khamel;8;10;N/A;Ubatuba;10/4/2025;1;single;2.93
+591;Disobey;1;14;TRUE;Dylan Tha Only Child;3;24;N/A;Disobey;10/4/2025;1;single;3.34
+592;Man on a Bench (Um Um Um);1;56;FALSE;ConKi;61;26095;N/A;Man on a Bench (Um Um Um);10/4/2025;1;single;2.24
+593;Cozinhar em Harmonia;1;15;FALSE;DJ Khamel;8;10;N/A;Cozinhar em Harmonia;9/4/2025;1;single;4
+594;Fernando de Noronha;3;11;FALSE;DJ Khamel;8;10;N/A;Fernando de Noronha;8/4/2025;3;single;2.61
+595;Deus em tudo;1;5;FALSE;Daya Blaze;2;0;N/A;Deus em tudo;7/4/2025;1;single;4
+596;Voando Alto;1;12;FALSE;DJ Khamel;8;10;N/A;Voando Alto;7/4/2025;1;single;1.97
+597;Lollapalooza;1;0;FALSE;Daya Blaze;1;0;N/A;Lollapalooza;6/4/2025;1;single;3.3
+598;Paraty Mirim;1;0;FALSE;DJ Khamel;8;10;N/A;Paraty Mirim;5/4/2025;1;single;2.5
+599;Shine Like Stars;1;57;FALSE;Benji;55;3650;afro house;Shine Like Stars;4/4/2025;1;single;3.76
+600;Azizam;1;84;FALSE;Ed Sheeran;88;122773292;soft pop;Azizam;4/4/2025;1;single;2.7
+601;Still Mine;1;46;FALSE;Nck;32;2505;N/A;Still Mine;3/4/2025;1;single;2.15
+602;Demure Waves;1;0;FALSE;DJ Khamel;8;10;N/A;Demure Waves;1/4/2025;1;single;2.71
+603;dandelion;17;50;FALSE;Ariana Grande;90;107401919;pop;eternal sunshine deluxe: brighter days ahead;28/3/2025;19;album;3.41
+604;eternal sunshine;5;63;FALSE;Ariana Grande;90;107401919;pop;eternal sunshine deluxe: brighter days ahead;28/3/2025;19;album;3.5
+605;Bar None;1;70;FALSE;Jordan Davis;71;1615711;country, pop country;Bar None;28/3/2025;1;single;2.88
+606;Love Mess;1;18;FALSE;shotty;11;325;N/A;Love Mess;28/3/2025;1;single;3.64
+607;intro (end of the world) - extended;14;48;FALSE;Ariana Grande;90;107374593;pop;eternal sunshine deluxe: brighter days ahead;28/3/2025;19;album;2.68
+608;twilight zone;15;73;FALSE;Ariana Grande;90;107389514;pop;eternal sunshine deluxe: brighter days ahead;28/3/2025;19;album;3.3
+609;warm;16;48;FALSE;Ariana Grande;90;107374593;pop;eternal sunshine deluxe: brighter days ahead;28/3/2025;19;album;3.36
+610;twilight zone;15;72;FALSE;Ariana Grande;90;107374593;pop;eternal sunshine deluxe: brighter days ahead (a cappella version);27/3/2025;38;album;3.3
+611;Need Me;1;49;TRUE;Rumelis;48;8682;dark r&b;Need Me;25/3/2025;3;single;2.28
+612;Ontario;1;42;FALSE;Xander Ward;35;729;N/A;Ontario;21/3/2025;1;single;3.52
+613;DEAD WEIGHT;1;22;FALSE;Maya Kuriel;19;9683;N/A;DEAD WEIGHT;21/3/2025;1;single;2.49
+614;Younger And Hotter Than Me;2;53;FALSE;Selena Gomez;81;53263844;N/A;I Said I Love You First;21/3/2025;14;album;3.16
+615;undressed;1;85;FALSE;sombr;85;2789144;N/A;undressed;21/3/2025;1;single;3.03
+616;First Song;1;62;FALSE;Roga.;46;64215;N/A;High Five!;20/3/2025;5;single;1.69
+617;Breakeven;1;45;FALSE;Valentin;40;2158;N/A;Breakeven;20/3/2025;1;single;4.07
+618;My Soul;1;47;FALSE;Steeg;43;769;N/A;My Soul;20/3/2025;1;single;2.57
+619;NO MAR EU VOU NAVEGAR;1;5;TRUE;Daya Blaze;2;0;N/A;NO MAR EU VOU NAVEGAR;20/3/2025;1;single;3.35
+620;southbound;1;73;TRUE;Artemas;74;1378074;N/A;southbound / test drive;19/3/2025;2;single;2.29
+621;CLASSY;1;42;TRUE;Cloud;31;10130;N/A;CLASSY;18/3/2025;1;single;2.76
+622;TOXIC (with Skepta);11;79;TRUE;Playboi Carti;86;15026799;rage rap;MUSIC;14/3/2025;30;album;2.25
+623;Anxiety;20;74;TRUE;Doechii;76;3228538;N/A;Alligator Bites Never Heal (Extended);14/3/2025;20;album;4.15
+624;Mission;1;35;FALSE;Ely Oaks;72;190171;hypertechno;Mission;14/3/2025;1;single;1.97
+625;King;21;45;FALSE;RIELL;52;78423;N/A;Hymns For The Bitter;14/3/2025;21;album;2.98
+626;The Giver;1;73;FALSE;Chappell Roan;82;7305071;N/A;The Giver;13/3/2025;1;single;3.37
+627;Face to Face (Let Me Love You);1;50;FALSE;Sugar Jesus;47;4569;N/A;Face to Face (Let Me Love You);13/3/2025;1;single;2.6
+628;Headlock - Slowed;3;52;FALSE;Elliot Sutton;57;22061;N/A;Headlock;11/3/2025;4;single;3.87
+629;Handlebars (feat. Dua Lipa);4;75;TRUE;JENNIE;81;12320084;k-pop;Ruby;7/3/2025;15;album;3.07
+630;Intro : JANE with FKJ;1;61;FALSE;JENNIE;81;12337033;k-pop;Ruby;7/3/2025;15;album;1.63
+631;CURSE or SPELL;1;20;FALSE;weeklyn;30;6934;emo rap;CURSE or SPELL;7/3/2025;1;single;2.9
+632;Damn Right (feat. Childish Gambino & Kali Uchis);10;68;TRUE;JENNIE;81;12320084;k-pop;Ruby;7/3/2025;15;album;3.84
+633;Die With A Smile;14;86;FALSE;Lady Gaga;89;42275793;art pop, pop;MAYHEM;7/3/2025;14;album;4.19
+634;ExtraL (feat. Doechii);6;77;TRUE;JENNIE;81;12320084;k-pop;Ruby;7/3/2025;15;album;2.79
+635;F.T.S.;11;63;TRUE;JENNIE;81;12320084;k-pop;Ruby;7/3/2025;15;album;2.54
+636;Filter;12;65;TRUE;JENNIE;81;12320084;k-pop;Ruby;7/3/2025;15;album;2.52
+637;Garden Of Eden;3;74;FALSE;Lady Gaga;88;42256604;art pop, pop;MAYHEM;7/3/2025;14;album;3.99
+638;Seoul City;13;71;FALSE;JENNIE;81;12337033;k-pop;Ruby;7/3/2025;15;album;2.73
+639;Starlight;14;66;TRUE;JENNIE;81;12328041;k-pop;Ruby;7/3/2025;15;album;2.8
+640;start a war;3;68;TRUE;JENNIE;81;12328041;k-pop;Ruby;7/3/2025;15;album;2.75
+641;twin;15;62;FALSE;JENNIE;81;12320084;k-pop;Ruby;7/3/2025;15;album;3.48
+642;like JENNIE;2;87;TRUE;JENNIE;81;12320084;k-pop;Ruby;7/3/2025;15;album;2.05
+643;Love Hangover (feat. Dominic Fike);8;72;TRUE;JENNIE;81;12337033;k-pop;Ruby;7/3/2025;15;album;3
+644;Mantra;7;79;TRUE;JENNIE;81;12328041;k-pop;Ruby;7/3/2025;15;album;2.27
+645;with the IE (way up);5;73;TRUE;JENNIE;81;12337033;k-pop;Ruby;7/3/2025;15;album;2.73
+646;ZEN;9;70;TRUE;JENNIE;81;12337033;k-pop;Ruby;7/3/2025;15;album;3.35
+647;Abracadabra;2;81;FALSE;Lady Gaga;88;42237551;art pop, pop;MAYHEM;7/3/2025;14;album;3.72
+648;Run It Up;1;65;TRUE;Hanumankind;66;876436;malayalam hip hop, desi hip hop;Run It Up;6/3/2025;1;single;2.89
+649;Why Them?;2;31;FALSE;Catlea;23;55684;melodic bass;Language Barrier;6/3/2025;10;album;3.02
+650;Zombie;8;48;FALSE;Last Call;49;2083;N/A;On Tap;5/3/2025;8;album;2.51
+651;505;7;55;FALSE;Last Call;49;2100;N/A;On Tap;5/3/2025;8;album;2.58
+652;Amazed;6;52;FALSE;JD & The Straight Chasers;49;1874;N/A;Southern Comfort Classics;5/3/2025;7;single;2.87
+653;Anxiety;1;79;TRUE;Doechii;76;3227707;N/A;Anxiety;5/3/2025;2;single;4.15
+654;Creep;2;59;FALSE;Last Call;49;2083;N/A;On Tap;5/3/2025;8;album;2.52
+655;Everlong;1;53;FALSE;Last Call;49;2083;N/A;On Tap;5/3/2025;8;album;2.49
+656;Fishin' In The Dark;2;53;FALSE;JD & The Straight Chasers;49;1866;N/A;Southern Comfort Classics;5/3/2025;7;single;2.59
+657;Sex On Fire;3;57;FALSE;October Surprise;48;1921;N/A;Legends, Revisted;5/3/2025;8;single;2.33
+658;She's Country;1;54;FALSE;JD & The Straight Chasers;49;1874;N/A;Southern Comfort Classics;5/3/2025;7;single;2.25
+659;Something Like That;4;50;FALSE;JD & The Straight Chasers;49;1855;N/A;Southern Comfort Classics;5/3/2025;7;single;2.97
+660;Sweet Disposition;8;52;FALSE;October Surprise;48;1950;N/A;Legends, Revisted;5/3/2025;8;single;2.13
+661;Tennessee Whiskey;5;54;FALSE;JD & The Straight Chasers;49;1874;N/A;Southern Comfort Classics;5/3/2025;7;single;4.73
+662;What Hurts The Most;7;51;FALSE;JD & The Straight Chasers;49;1874;N/A;Southern Comfort Classics;5/3/2025;7;single;2.46
+663;Life Is A Highway;3;55;FALSE;JD & The Straight Chasers;49;1866;N/A;Southern Comfort Classics;5/3/2025;7;single;4.51
+664;I Hate Your Ex-Girlfriend (feat. Doechii);2;48;TRUE;BANKS;56;1078897;N/A;Off With Her Head;28/2/2025;12;album;2.39
+665;Truth or Dare;1;54;FALSE;Ana Shine;45;27568;N/A;Truth or Dare;26/2/2025;1;single;2.61
+666;Like I do;9;65;TRUE;Tate McRae;88;9249502;pop;So Close To What;24/2/2025;16;album;3.03
+667;Means I care;12;64;TRUE;Tate McRae;88;9241516;pop;So Close To What;24/2/2025;16;album;2.93
+668;Miss possessive;1;68;TRUE;Tate McRae;88;9249502;pop;So Close To What;24/2/2025;16;album;2.31
+669;No I'm not in love;11;64;FALSE;Tate McRae;88;9241516;pop;So Close To What;24/2/2025;16;album;2.83
+670;Nostalgia;16;63;TRUE;Tate McRae;88;9241516;pop;So Close To What;24/2/2025;16;album;3.05
+671;2 hands;14;65;TRUE;Tate McRae;88;9256589;pop;So Close To What;24/2/2025;16;album;3.04
+672;bloodonmyhands (feat. Flo Milli);3;68;TRUE;Tate McRae;88;9256589;pop;So Close To What;24/2/2025;16;album;2.7
+673;Greenlight;13;64;TRUE;Tate McRae;88;9249502;pop;So Close To What;24/2/2025;16;album;2.75
+674;I know love (feat. The Kid LAROI);8;65;TRUE;Tate McRae;88;9249502;pop;So Close To What;24/2/2025;16;album;2.6
+675;It's ok I'm ok;10;65;TRUE;Tate McRae;88;9241516;pop;So Close To What;24/2/2025;16;album;2.61
+676;Dear god;4;68;FALSE;Tate McRae;88;9265406;pop;So Close To What;24/2/2025;16;album;2.85
+677;Purple lace bra;5;67;FALSE;Tate McRae;88;9249502;pop;So Close To What;24/2/2025;16;album;3.18
+678;Revolving door;2;68;TRUE;Tate McRae;88;9256589;pop;So Close To What;24/2/2025;16;album;3
+679;Signs;7;65;TRUE;Tate McRae;88;9241516;pop;So Close To What;24/2/2025;16;album;2.89
+680;Siren sounds (bonus);15;76;FALSE;Tate McRae;88;9256589;pop;So Close To What;24/2/2025;16;album;3.06
+681;Sports car;6;69;FALSE;Tate McRae;88;9256589;pop;So Close To What;24/2/2025;16;album;2.75
+682;Purple lace bra;6;67;FALSE;Tate McRae;88;9249502;pop;So Close To What;21/2/2025;15;album;3.18
+683;Restart;1;35;FALSE;Melodream;39;1586;N/A;Restart (feat. Jaime Deraz);21/2/2025;1;single;2.62
+684;Revolving door;3;85;TRUE;Tate McRae;88;9241516;pop;So Close To What;21/2/2025;15;album;3
+685;Shake It To The Max (FLY) - Remix;1;85;TRUE;MOLIY;73;197500;altÃ©;Shake It To The Max (FLY) (Remix);21/2/2025;1;single;2.97
+686;Sports car;7;66;FALSE;Tate McRae;88;9256589;pop;So Close To What;21/2/2025;15;album;2.75
+687;Like I do;10;66;TRUE;Tate McRae;88;9249502;pop;So Close To What;21/2/2025;15;album;3.03
+688;Miss possessive;1;76;TRUE;Tate McRae;88;9249502;pop;So Close To What;21/2/2025;15;album;2.31
+689;No I'm not in love;12;61;FALSE;Tate McRae;88;9256589;pop;So Close To What;21/2/2025;15;album;2.83
+690;Dear god;5;68;FALSE;Tate McRae;88;9241516;pop;So Close To What;21/2/2025;15;album;2.85
+691;Greenlight;14;66;TRUE;Tate McRae;88;9241516;pop;So Close To What;21/2/2025;15;album;2.75
+692;Happen To Me;1;59;FALSE;Russell Dickerson;65;587206;country, pop country;Happen To Me;21/2/2025;1;single;3.06
+693;I know love (feat. The Kid LAROI);9;73;TRUE;Tate McRae;88;9249502;pop;So Close To What;21/2/2025;15;album;2.6
+694;La La La;1;48;FALSE;CADDY;38;963;N/A;La La La;21/2/2025;1;single;3.31
+695;Sports car;6;86;FALSE;Tate McRae;88;9256589;pop;So Close To What;20/2/2025;16;album;2.75
+696;La Plena - W Sound 05;1;89;TRUE;W Sound;73;812534;N/A;La Plena (W Sound 05);19/2/2025;1;single;2.5
+697;so sick;1;40;FALSE;Right Right;27;200;N/A;indiemono | love 5.0;14/2/2025;9;compilation;3.16
+698;We Are Not Broken;1;23;FALSE;Matt Goss;16;9639;trance;We Are Not Broken;14/2/2025;1;single;3.71
+699;Busy Woman;16;82;TRUE;Sabrina Carpenter;91;26559943;pop;Short n' Sweet (Deluxe);14/2/2025;17;album;3.11
+700;NOKIA;14;85;TRUE;Drake;95;103039388;rap;$ome $exy $ongs 4 U;14/2/2025;21;album;4.01
+701;We Hug Now;1;80;FALSE;Sydney Rose;63;340502;N/A;We Hug Now;13/2/2025;1;single;4.14
+702;tweaker - Acoustic;1;0;FALSE;raysoo;10;355;N/A;tweaker (Acoustic);10/2/2025;1;single;2.12
+703;Show Me Love;1;86;FALSE;WizTheMc;73;226566;N/A;Show Me Love;7/2/2025;1;single;2.94
+704;Ordinary;1;90;FALSE;Alex Warren;84;2880337;N/A;Ordinary;7/2/2025;1;single;3.11
+705;Do It Again;1;44;FALSE;Johnning;51;43179;N/A;Do It Again;7/2/2025;1;single;3.26
+706;Born Again (feat. Doja Cat & RAYE);1;72;TRUE;LISA;75;13273537;k-pop;Born Again (feat. Doja Cat & RAYE);6/2/2025;1;single;3.85
+707;Abracadabra;1;81;FALSE;Lady Gaga;88;42256604;art pop, pop;Abracadabra;3/2/2025;1;single;3.72
+708;Baptized In Fear;6;71;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;3.86
+709;Big Sleep (feat. Giorgio Moroder);16;62;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;3.75
+710;Take Me Back To LA;15;67;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;4.22
+711;The Abyss (feat. Lana Del Rey);19;75;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;4.71
+712;Timeless (feat Playboi Carti);13;90;TRUE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;4.26
+713;Until We're Skin & Bones;5;21;FALSE;The Weeknd;93;112957721;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;0.36
+714;Wake Me Up (feat. Justice);1;70;FALSE;The Weeknd;93;112957721;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;5.14
+715;Hurry Up Tomorrow;22;63;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;4.85
+716;I Can't Fucking Sing;3;18;TRUE;The Weeknd;94;112995439;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;0.2
+717;I Can't Wait To Get There;12;66;TRUE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;3.14
+718;Without a Warning;21;66;FALSE;The Weeknd;93;112957721;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;4.95
+719;Cry For Me;2;82;TRUE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;3.73
+720;Drive;18;64;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;3.14
+721;Enjoy The Show (feat. Future);10;66;TRUE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;5.02
+722;Give Me Mercy;17;62;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;3.6
+723;Given Up On Me;11;67;FALSE;The Weeknd;94;112995439;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;5.91
+724;Red Terror;20;62;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;3.86
+725;Reflections Laughing (feat. Travis Scott, Florence + The Machine);9;70;TRUE;The Weeknd;94;112995439;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;4.85
+726;SÃ£o Paulo (feat. Anitta);4;84;TRUE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;5.02
+727;Love Hangover (feat. Dominic Fike);1;68;TRUE;JENNIE;81;12328041;k-pop;Love Hangover (feat. Dominic Fike);31/1/2025;1;single;3
+728;Niagara Falls;14;71;TRUE;The Weeknd;93;112957721;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;4.62
+729;Open Hearts;7;73;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;3.91
+730;Opening Night;8;64;FALSE;The Weeknd;94;112995439;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;31/1/2025;22;album;1.6
+731;Baptized In Fear;6;63;FALSE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;Hurry Up Tomorrow;30/1/2025;22;album;3.86
+732;let me fall;1;51;TRUE;Ex Habit;59;130298;dark r&b;let me fall;29/1/2025;3;single;2.68
+733;May You Always Shine;5;25;FALSE;Chris Wenner;23;2055;N/A;Not Old Enough;24/1/2025;14;album;3.47
+734;Arm's Length;1;54;TRUE;Sam Fender;73;1205664;N/A;Arm's Length;24/1/2025;3;single;3.99
+735;Better Me For You (Brown Eyes);2;80;FALSE;Max McNown;72;694838;N/A;Night Diving;24/1/2025;10;album;3.23
+736;Striptease;9;54;FALSE;FKA twigs;64;1442113;art pop, alternative r&b;EUSEXUA;24/1/2025;11;album;4.72
+737;Volta Amor;1;12;TRUE;Bruno Chosen;2;107;N/A;Boopy;24/1/2025;2;single;2.73
+738;Red Velvet (with Ari Abdul);1;56;FALSE;Jutes;61;288264;N/A;Red Velvet (with Ari Abdul);24/1/2025;1;single;3.1
+739;Sports car;1;79;FALSE;Tate McRae;88;9241516;pop;Sports car;24/1/2025;3;single;2.75
+740;Fancy;1;40;FALSE;CADMIUM;47;74067;N/A;Fancy;24/1/2025;1;single;2.7
+741;Greedy;1;49;FALSE;MARSTEREON;51;2385;deep house;Greedy;23/1/2025;1;single;2.07
+742;her name;1;54;FALSE;Beneld;53;19010;dark r&b;her name;17/1/2025;3;single;2.68
+743;Forever Young;1;51;FALSE;Alan Walker;78;41271918;N/A;Forever Young;17/1/2025;2;single;2.96
+744;Changes;1;37;FALSE;Blasterjaxx;61;847354;big room, edm;Changes;17/1/2025;1;single;2.58
+745;Me Hace DaÃ±o Verte - Cover;1;12;FALSE;Oliver Damian;3;92;N/A;Me Hace DaÃ±o Verte (Cover);17/1/2025;1;single;4.73
+746;Neon Hong Kong;1;44;TRUE;Riff Raff;48;193266;N/A;Welcome To Shaolin;17/1/2025;21;album;3.03
+747;Strangers;1;47;FALSE;RIELL;52;78478;N/A;Strangers;17/1/2025;1;single;2.85
+748;Poison In My Veins;1;54;FALSE;Elvis Drew;55;68465;dark r&b;Poison In My Veins;16/1/2025;1;single;3.78
+749;Soda Soda;5;35;FALSE;Ahmed Saad;61;6374933;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;3.59
+750;3ayez Salamtak;2;41;FALSE;Ahmed Saad;61;6371210;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;3.78
+751;Ana Mesheet;8;45;FALSE;Ahmed Saad;61;6371210;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;3.7
+752;Baseet;4;41;FALSE;Ahmed Saad;61;6371210;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;4.68
+753;Habebna;9;40;FALSE;Ahmed Saad;61;6382603;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;4.14
+754;Law Tigi;3;56;FALSE;Ahmed Saad;61;6371210;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;4.2
+755;Let It Burn;1;36;TRUE;Stakz DeVito;28;1103;N/A;Let It Burn;15/1/2025;1;single;4.32
+756;Moftakedni;1;48;FALSE;Ahmed Saad;61;6374933;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;3.89
+757;Omri Eli Fat;7;36;FALSE;Ahmed Saad;61;6379004;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;4.03
+758;Tigi Nehareb;6;42;FALSE;Ahmed Saad;61;6374933;mahraganat, egyptian pop, egyptian shaabi, khaleeji;Habebna;15/1/2025;9;album;4.09
+759;ARCHITECT;1;23;FALSE;J. Baez;7;60;N/A;ARCHITECT;11/1/2025;1;single;2.47
+760;Back In Love;1;58;FALSE;Thierry Von Der Warth;62;47263;tropical house;Back In Love;10/1/2025;1;single;2.55
+761;Keep it 2 myself;1;40;FALSE;Anna Marx;34;1703;N/A;Keep it 2 myself;10/1/2025;2;single;2.44
+762;DtMF;16;91;TRUE;Bad Bunny;95;102500980;reggaeton, trap latino, urbano latino, latin;DeBÃ TiRAR MÃ¡S FOToS;5/1/2025;17;album;3.95
+763;EoO;15;88;TRUE;Bad Bunny;95;102571645;reggaeton, trap latino, urbano latino, latin;DeBÃ TiRAR MÃ¡S FOToS;5/1/2025;17;album;3.41
+764;BAILE INoLVIDABLE;3;90;TRUE;Bad Bunny;95;102536542;reggaeton, trap latino, urbano latino, latin;DeBÃ TiRAR MÃ¡S FOToS;5/1/2025;17;album;6.12
+765;NUEVAYoL;1;89;FALSE;Bad Bunny;95;102571645;reggaeton, trap latino, urbano latino, latin;DeBÃ TiRAR MÃ¡S FOToS;5/1/2025;17;album;3.06
+766;ME, MYSELF,& MO.CITY/ I TOLD YOU;7;30;TRUE;BOMBVY;13;119;N/A;MORFEIN;29/12/2024;12;album;9.85
+767;BAKU;1;24;TRUE;King Kxmi;8;2482;N/A;BAKU;29/12/2024;1;single;2.92
+768;kisses in the wind;1;52;TRUE;Lil Peep;82;15689879;emo rap, cloud rap;kisses in the wind;28/12/2024;1;single;2.46
+769;back to friends;1;92;FALSE;sombr;85;2789144;N/A;back to friends;27/12/2024;1;single;3.31
+770;Overdrive (Alive);1;0;FALSE;HUTS;48;120148;slap house;Overdrive (Alive);27/12/2024;1;single;2.71
+771;Elle tâ€™a tuÃ©;1;42;FALSE;turndownn;24;378;N/A;Elle tâ€™a tuÃ©;25/12/2024;1;single;2.28
+772;GET YOU BACK;1;21;TRUE;WTE LIK;6;27;N/A;GET YOU BACK;25/12/2024;1;single;3.33
+773;BMF;5;78;TRUE;SZA;87;33055350;r&b;SOS Deluxe: LANA;20/12/2024;38;album;3.01
+774;I'm Sorry;1;3;FALSE;Besomorph;58;146944;slap house;I'm Sorry;20/12/2024;1;single;3.17
+775;It Ain't Me, Babe;18;71;FALSE;TimothÃ©e Chalamet;56;149707;N/A;A Complete Unknown (Original Motion Picture Soundtrack);20/12/2024;23;album;3.62
+776;Moonlight Shadow;1;37;FALSE;Clouded.;22;1009;slap house;Moonlight Shadow;20/12/2024;1;single;3.06
+777;I See;1;50;TRUE;Rumelis;48;8682;dark r&b;I See;19/12/2024;3;single;2.58
+778;I See - Sped Up;2;45;TRUE;Rumelis;48;8682;dark r&b;I See;19/12/2024;3;single;2.3
+779;when he holds u close;1;47;FALSE;Omido;59;72278;dark r&b;when he holds u close;18/12/2024;3;single;2.6
+780;Show Me;1;54;FALSE;BURY;52;21748;dark r&b;Show Me;18/12/2024;3;single;3.44
+781;Feel Good;5;78;TRUE;Clara La San;69;456500;N/A;Good Mourning;13/12/2024;10;album;3.54
+782;Freaks;1;54;FALSE;TRFN;50;39852;slap house, g-house;Freaks;13/12/2024;1;single;2.01
+783;Viva La Vida;1;33;FALSE;Ericovich;41;11030;nightcore;Viva La Vida;13/12/2024;1;single;2.09
+784;Only Wanna Dream;1;13;FALSE;GYMBRO;50;32968;hypertechno;Only Wanna Dream;13/12/2024;1;single;2.12
+785;different;1;33;FALSE;retz;40;9764;N/A;different;6/12/2024;2;single;2.98
+786;APT.;6;83;FALSE;ROSÃ‰;78;13313690;k-pop;rosie;6/12/2024;12;album;2.83
+787;Parachute;1;25;FALSE;Intellios;17;1310;N/A;Parachute;6/12/2024;1;single;1.99
+788;Place We Know;1;54;FALSE;sÃ»r faire;42;294;N/A;Place We Know;6/12/2024;1;single;2.6
+789;Supply And Demand;1;26;TRUE;STFN;9;73;N/A;Supply And Demand;6/12/2024;1;single;2.75
+790;toxic till the end;4;79;FALSE;ROSÃ‰;78;13313690;k-pop;rosie;6/12/2024;12;album;2.61
+791;Ghost;1;32;FALSE;Hannah Harlacher;20;218;N/A;indiemono OBSIDIAN SUNSET | Indie / Alternative VOL. 05;1/12/2024;10;compilation;5.52
+792;Drip Down;1;16;FALSE;Tungevaag;58;175275;big room;Drip Down;29/11/2024;1;single;2.1
+793;One Call;1;36;FALSE;Nic Dean;41;30239;dark r&b;One Call;29/11/2024;2;single;2.27
+794;Outside;1;37;FALSE;ILURO;41;8658;N/A;Outside;29/11/2024;1;single;2.84
+795;She Doesn't Mind;1;2;FALSE;Besomage;50;12471;N/A;She Doesn't Mind;29/11/2024;1;single;2.42
+796;I Think They Call This Love - Cover;2;69;FALSE;Matthew Ifield;53;212334;N/A;Iâ€™ll Be Home For Christmas / I Think They Call This Love (Cover);28/11/2024;2;single;3.27
+797;KHÃ”NG SAO Cáº¢ (feat. 7dnight);2;47;FALSE;RAP VIá»†T;55;2085415;vietnamese hip hop, v-pop;RAP VIá»†T 2024, Táº­p 10;25/11/2024;6;single;4.15
+798;Getting Older (Time Is Ticking);1;22;FALSE;J 2 5;7;34;N/A;Getting Older (Time Is Ticking);25/11/2024;1;single;2.89
+799;I Promised You (feat. Ray Chen);47;48;FALSE;Arcane;76;771281;N/A;Vol. 3: Arcane League of Legends (Season 2 Original Score);24/11/2024;49;album;3.36
+800;Sucker (from the series Arcane League of Legends);3;68;TRUE;Arcane;76;771980;N/A;Arcane League of Legends: Season 2 (Soundtrack from the Animated Series);23/11/2024;22;album;3.73
+801;Wasteland (from the series Arcane League of Legends);21;67;FALSE;Arcane;76;771980;N/A;Arcane League of Legends: Season 2 (Soundtrack from the Animated Series);23/11/2024;22;album;2.68
+802;Remember Me (from the series Arcane League of Legends);9;68;FALSE;Arcane;76;771688;N/A;Arcane League of Legends: Season 2 (Soundtrack from the Animated Series);23/11/2024;22;album;2.03
+803;Ma Meilleure Ennemie (from the series Arcane League of Legends);16;75;FALSE;Arcane;76;771688;N/A;Arcane League of Legends: Season 2 (Soundtrack from the Animated Series);23/11/2024;22;album;2.46
+804;luther (with sza);3;83;FALSE;Kendrick Lamar;89;44606446;hip hop, west coast hip hop;GNX;22/11/2024;12;album;2.95
+805;Defying Gravity;11;74;FALSE;Cynthia Erivo;66;522714;musicals;Wicked: The Soundtrack;22/11/2024;12;album;7.66
+806;squabble up;2;80;TRUE;Kendrick Lamar;89;44606446;hip hop, west coast hip hop;GNX;22/11/2024;12;album;2.63
+807;luther (with sza);3;84;FALSE;Kendrick Lamar;89;44592005;hip hop, west coast hip hop;GNX;21/11/2024;12;album;2.95
+808;Loveline;1;9;FALSE;BYOR;60;38969;N/A;Loveline;15/11/2024;1;single;2.25
+809;makes me want you;1;71;FALSE;sombr;85;2795852;N/A;makes me want you;15/11/2024;1;single;2.68
+810;MUSTANG BABY (FT. ARTEMAS);6;58;TRUE;Nessa Barrett;68;1719445;N/A;AFTERCARE;15/11/2024;15;album;3.19
+811;P*RNSTAR;2;74;TRUE;Nessa Barrett;68;1719900;N/A;AFTERCARE;15/11/2024;15;album;2.49
+812;Panda Eyes;1;9;TRUE;Drenchill;51;34822;slap house;Panda Eyes;15/11/2024;1;single;2.06
+813;People Watching;1;64;FALSE;Sam Fender;73;1204977;N/A;People Watching;15/11/2024;1;single;5.19
+814;Birds Of A Feather;1;44;FALSE;deer noir;37;825;N/A;Birds Of A Feather;15/11/2024;1;single;2.98
+815;DIRTY LITTLE SECRET;15;60;FALSE;Nessa Barrett;68;1719900;N/A;AFTERCARE;15/11/2024;15;album;3.58
+816;Safe;1;48;FALSE;MarchY;37;794;N/A;Safe;14/11/2024;1;single;2.7
+817;How Deep Is Your Love;1;57;FALSE;MetaBoy;48;2631;afro house, hypertechno;How Deep Is Your Love;8/11/2024;1;single;2.49
+818;Kill for you;1;44;FALSE;Mandrazo;48;10272;N/A;Kill for you;8/11/2024;2;single;3.1
+819;Nice To Meet You;1;75;FALSE;Myles Smith;74;1317349;N/A;A Minute...;8/11/2024;7;single;2.93
+820;Not Alone - Acoustic Version;2;54;FALSE;Gabry Ponte;72;715424;slap house, italo dance;Not Alone (feat. Diana Goldberg);8/11/2024;2;single;3.36
+821;15 Minutes;1;33;FALSE;mavzy grx;45;9382;hypertechno;15 Minutes;8/11/2024;1;single;2.11
+822;Birds Of A Feather;1;3;FALSE;Besomage;50;12555;N/A;Birds Of A Feather;7/11/2024;1;single;2.41
+823;"Aa Zara (From Murder 2"")""";11;15;FALSE;Sunidhi Chauhan;74;17579633;bollywood, desi, hindi pop;Sunidhi's Sassy Hits;5/11/2024;50;compilation;4.95
+824;Downtown Lover;1;41;FALSE;Besomorph;58;146944;slap house;Downtown Lover;1/11/2024;1;single;2.08
+825;The Fall;2;75;FALSE;Cody Johnson;73;1943383;texas country, country, red dirt;Leather Deluxe Edition;1/11/2024;25;album;3.29
+826;SÃ£o Paulo (feat. Anitta);1;12;TRUE;The Weeknd;93;112957721;r&b pop, alternative r&b, hip hop, synthpop;SÃ£o Paulo;31/10/2024;1;single;5.02
+827;over my dead body;1;57;FALSE;Ex Habit;59;130194;dark r&b;over my dead body;29/10/2024;2;single;2.73
+828;Change the World;1;20;FALSE;Jiggy Tone;8;2057;N/A;Change the World;29/10/2024;1;single;3.02
+829;St. Chroma (feat. Daniel Caesar);1;76;TRUE;Tyler, The Creator;86;24430255;N/A;CHROMAKOPIA;28/10/2024;14;album;3.28
+830;Like Him (feat. Lola Young);12;85;TRUE;Tyler, The Creator;86;24420596;N/A;CHROMAKOPIA;28/10/2024;14;album;4.63
+831;midnight;1;58;FALSE;kobzx2z;61;46395;funkot, lagu jawa;midnight;25/10/2024;6;single;2.15
+832;Aquamarine;1;60;FALSE;Addison Rae;74;1366758;N/A;Aquamarine;25/10/2024;2;single;2.71
+833;Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8);1;70;FALSE;BL8M;60;183597;N/A;Blink Gone (VIVINOS - ALNST Original Soundtrack Part.8);25/10/2024;1;single;3.14
+834;GODS;1;40;FALSE;Ericovich;41;11036;nightcore;GODS;25/10/2024;1;single;2.01
+835;Disease;1;70;FALSE;Lady Gaga;89;42275793;art pop, pop;Disease;25/10/2024;1;single;3.83
+836;DISCO COWBOY;2;43;FALSE;Mishaal Tamer;58;192735;N/A;HOME IS CHANGING;18/10/2024;33;album;2.63
+837;Forever Young;1;73;FALSE;David Guetta;87;27141717;edm;Forever Young;18/10/2024;2;single;2.61
+838;ALL NIGHT LONG;5;54;TRUE;Mishaal Tamer;58;192735;N/A;HOME IS CHANGING;18/10/2024;33;album;3.56
+839;ALWAYS BEEN YOU;13;66;FALSE;Chris Grey;72;968416;dark r&b;THE CASTLE NEVER FALLS;18/10/2024;14;album;2.14
+840;APT.;1;88;FALSE;ROSÃ‰;78;13320396;k-pop;APT.;18/10/2024;1;single;2.83
+841;MAKE THE ANGELS CRY;9;65;FALSE;Chris Grey;72;968416;dark r&b;THE CASTLE NEVER FALLS;18/10/2024;14;album;2.37
+842;SUPERMAN;4;64;TRUE;Mishaal Tamer;58;192887;N/A;HOME IS CHANGING;18/10/2024;33;album;2.73
+843;Thatâ€™s So True;15;89;TRUE;Gracie Abrams;82;7420507;N/A;The Secret of Us (Deluxe);18/10/2024;20;album;2.77
+844;THE GREATEST SHOW;5;44;FALSE;Mishaal Tamer;58;192887;N/A;HOME IS CHANGING;18/10/2024;33;album;3.16
+845;Thin Illusions;8;31;FALSE;BONZIE;30;28410;N/A;When I Found The Trap Door;18/10/2024;10;album;3.01
+846;This Is Not Real;6;38;FALSE;BONZIE;29;28413;N/A;When I Found The Trap Door;18/10/2024;10;album;4.03
+847;House Again;1;69;FALSE;Hudson Westbrook;71;344824;country;House Again;18/10/2024;1;single;3.39
+848;ITTY BITTY;4;61;TRUE;Mishaal Tamer;58;192735;N/A;HOME IS CHANGING;18/10/2024;33;album;2.38
+849;PAINFUL PARADISE;1;47;FALSE;Mishaal Tamer;58;192735;N/A;HOME IS CHANGING;18/10/2024;33;album;2.89
+850;pills & zinfandel;2;18;TRUE;Elliot;20;4873;N/A;affogato;18/10/2024;7;album;2.63
+851;Precious;1;47;FALSE;Omido;59;72278;dark r&b;Precious;18/10/2024;2;single;2.09
+852;Somebody That I Used To Know;1;47;FALSE;Prezioso;62;159294;italo dance;Somebody That I Used To Know;18/10/2024;1;single;1.98
+853;i'm just tryna tell you how I feel;1;19;TRUE;lovemyvictims;35;1329;N/A;I AM A LIAR;14/10/2024;5;single;3.68
+854;Guess featuring billie eilish;16;80;FALSE;Charli xcx;82;6318755;hyperpop, art pop;Brat and itâ€™s completely different but also still brat;11/10/2024;34;album;2.38
+855;Lose Myself Tonight;1;30;FALSE;TÃ˜RISMAD;29;378;hypertechno;Lose Myself Tonight;11/10/2024;1;single;2.33
+856;Girl, so confusing featuring lorde;10;78;FALSE;Charli xcx;82;6315216;hyperpop, art pop;Brat and itâ€™s completely different but also still brat;11/10/2024;34;album;3.43
+857;Acapulco;1;1;FALSE;BRAN;47;9575;afro house, slap house;Acapulco;11/10/2024;1;single;1.95
+858;PUSH 2 START;2;80;FALSE;Tyla;77;3505794;afrobeats;TYLA +;11/10/2024;17;album;2.61
+859;Rock My Body;1;32;FALSE;Westerlund;34;1809;hypertechno;Rock My Body;11/10/2024;1;single;2.1
+860;Sympathy is a knife featuring ariana grande;3;63;TRUE;Charli xcx;82;6318755;hyperpop, art pop;Brat and itâ€™s completely different but also still brat;11/10/2024;34;album;2.56
+861;Von dutch a. g. cook remix featuring addison rae;6;62;FALSE;Charli xcx;82;6315216;hyperpop, art pop;Brat and itâ€™s completely different but also still brat;11/10/2024;34;album;2.62
+862;Heart of Stone;3;65;FALSE;Jelly Roll;79;6099725;country hip hop, country;Beautifully Broken;10/10/2024;22;album;3.02
+863;In My Bed;20;27;FALSE;VAMERO;48;11894;slap house;Autumn Dance Hits 2024;10/10/2024;28;compilation;2.73
+864;Mantra;1;73;TRUE;JENNIE;81;12337033;k-pop;Mantra;10/10/2024;1;single;2.27
+865;Paradise;1;34;FALSE;DJSM;60;63155;hypertechno, hard techno;Paradise;10/10/2024;1;single;2.73
+866;how could u love somebody like me?;1;71;FALSE;Artemas;74;1378074;N/A;how could u love somebody like me?;9/10/2024;1;single;2.1
+867;Growing Up;1;28;TRUE;LIL TAY;22;26987;N/A;Growing Up;4/10/2024;1;single;3.88
+868;Espresso;1;41;TRUE;Crystal Rock;55;28232;slap house;Espresso;4/10/2024;1;single;2.14
+869;MAYBE.;2;41;FALSE;SIENNA SPIRO;66;182377;N/A;TAXI DRIVER;4/10/2024;3;single;3.92
+870;Moonlit Floor (Kiss Me);1;71;FALSE;LISA;75;13266900;k-pop;Moonlit Floor (Kiss Me);3/10/2024;1;single;2.59
+871;Same Heart;1;53;FALSE;Zummer;46;1185;N/A;Same Heart;3/10/2024;1;single;2.54
+872;The Days;2;61;FALSE;Chrystal;70;87184;N/A;The Days;1/10/2024;2;single;2.82
+873;Autopilot;6;26;FALSE;kikomori;18;1450;N/A;indiemono AMBER CITY | Indie / Alternative VOL. 03;1/10/2024;10;compilation;3.63
+874;Allein Allein - BENNETT Remix;1;52;FALSE;Alok;76;11247155;brazilian bass, electronic, slap house, electro house;Allein Allein (feat. FREY) [BENNETT Remix];27/9/2024;2;single;2.43
+875;say my name;1;49;FALSE;BURY;52;21748;dark r&b;say my name;27/9/2024;3;single;2.75
+876;SCREAM MY NAME;5;59;FALSE;Montell Fish;72;2131649;N/A;CHARLOTTE;27/9/2024;10;album;2.66
+877;This Little Girl;1;31;FALSE;Ericovich;41;11036;nightcore;This Little Girl;27/9/2024;1;single;1.73
+878;Timeless (feat. Playboi Carti);1;19;TRUE;The Weeknd;94;112995439;r&b pop, alternative r&b, hip hop, synthpop;Timeless;27/9/2024;1;single;4.26
+879;Villain;1;46;FALSE;RIELL;52;78423;N/A;Villain;27/9/2024;1;single;2.52
+880;Tu Boda;1;83;TRUE;Oscar Maydon;81;6968754;corrido, corridos tumbados, corridos bÃ©licos, electro corridos, dembow belico, sad sierreÃ±o, sierreÃ±o;Tu Boda;26/9/2024;1;single;3.76
+881;Ordinary;1;91;FALSE;Alex Warren;84;2890457;N/A;You'll Be Alright, Kid (Chapter 1);26/9/2024;11;album;3.11
+882;Roaring 20s;1;53;FALSE;DVNY;40;949;N/A;Roaring 20s;26/9/2024;1;single;3.03
+883;Pushing It Down and Praying;1;70;FALSE;Lizzy McAlpine;74;1544658;N/A;Pushing It Down and Praying;20/9/2024;1;single;3.9
+884;Roses;12;23;FALSE;JesseÂ®;43;301512;N/A;Wanted?;20/9/2024;12;album;4.58
+885;Sorry;10;28;FALSE;JesseÂ®;43;301496;N/A;Wanted?;20/9/2024;12;album;3.97
+886;Wanted?;5;39;FALSE;JesseÂ®;43;301499;N/A;Wanted?;20/9/2024;12;album;3.86
+887;Hung Up;1;28;FALSE;Faruk Orman;42;3070;slap house;Hung Up;20/9/2024;1;single;2.12
+888;Know Better;3;26;FALSE;JesseÂ®;43;301499;N/A;Wanted?;20/9/2024;12;album;2.5
+889;Black & Gold;1;33;FALSE;Imanbek;66;277232;slap house;Black & Gold;20/9/2024;1;single;2.08
+890;LIL DEMON;2;74;TRUE;Future;88;22675640;rap;MIXTAPE PLUTO;20/9/2024;17;album;2.31
+891;Living Room;11;24;FALSE;JesseÂ®;43;301499;N/A;Wanted?;20/9/2024;12;album;3.33
+892;Ã“rale;9;26;TRUE;JesseÂ®;43;301532;N/A;Wanted?;20/9/2024;12;album;2.89
+893;Out of My League;1;29;TRUE;CADMIUM;48;74002;N/A;Out of My League;20/9/2024;2;single;2.6
+894;life force;3;5;FALSE;ptasinski;64;423959;phonk;freedom from self;16/9/2024;8;album;1.82
+895;Modern Tragedy;1;34;FALSE;Cheat Codes;62;2101848;N/A;Modern Tragedy;13/9/2024;1;single;2.99
+896;night in;1;41;FALSE;GOVAN;34;1434;N/A;night in;13/9/2024;1;single;3
+897;Dancing In The Flames;1;75;FALSE;The Weeknd;94;112995439;r&b pop, alternative r&b, hip hop, synthpop;Dancing In The Flames;13/9/2024;1;single;3.66
+898;Bad Dreams;1;79;FALSE;Teddy Swims;83;5670437;N/A;Bad Dreams;13/9/2024;1;single;3.07
+899;To Love;18;65;TRUE;Suki Waterhouse;68;1394134;N/A;Memoir of a Sparklemuffin;13/9/2024;18;album;3.94
+900;What Kinda Man;1;67;FALSE;Parker McCollum;66;704570;texas country, red dirt, country;What Kinda Man;13/9/2024;1;single;4.31
+901;Oh My Love;1;65;FALSE;ConKi;61;26114;N/A;Oh My Love;12/9/2024;1;single;2.74
+902;Pivot & Scrape;1;40;FALSE;Sophie Thatcher;37;53720;N/A;Pivot & Scrape;12/9/2024;2;single;3.61
+903;It's ok I'm ok;1;73;TRUE;Tate McRae;88;9256589;pop;It's ok I'm ok;12/9/2024;1;single;2.6
+904;Black and Blue;2;22;FALSE;Sophie Thatcher;37;53676;N/A;Pivot & Scrape;12/9/2024;2;single;3.82
+905;Back With The Pen Like;1;21;TRUE;Naimos Riggerz;7;24;N/A;Back With The Pen Like;7/9/2024;1;single;2.47
+906;Chicken Change;1;25;TRUE;D4WNATELLO;9;127;N/A;Chicken Change;6/9/2024;1;single;3.24
+907;The Doll People;4;59;TRUE;SOFIA ISELLA;56;557610;N/A;I Can Be Your Mother;6/9/2024;6;single;3.43
+908;Move;1;42;FALSE;midnight Berlin;42;4170;hypertechno;Move;6/9/2024;1;single;2.08
+909;If the Earth is Spinning (feat. Sia);10;28;FALSE;Paris Hilton;48;808436;N/A;Infinite Icon;6/9/2024;12;album;3.22
+910;Keep Your Eyes Peeled;1;54;FALSE;ULTRA SUNN;46;82479;darkwave, cold wave, ebm, post-punk, gothic rock;Keep Your Eyes Peeled;6/9/2024;15;album;3.84
+911;Donâ€™t Mind If I Do (ft. Ella Langley);1;71;FALSE;Riley Green;75;1372158;country;Donâ€™t Mind If I Do (ft. Ella Langley);6/9/2024;1;single;3.64
+912;Ghost;1;24;FALSE;Gulmee;36;992;hypertechno;Ghost;6/9/2024;1;single;2.13
+913;The Emptiness Machine;1;77;TRUE;Linkin Park;88;31785695;nu metal, rap metal, rock, alternative metal;The Emptiness Machine;5/9/2024;1;single;3.17
+914;Paint The Town Blue (from the series Arcane League of Legends);1;62;FALSE;Ashnikko;71;2614697;N/A;Paint The Town Blue (from the series Arcane League of Legends);5/9/2024;1;single;1.92
+915;Gothic Castle Gates;17;0;FALSE;Andrei Krylov;40;25945;medieval, celtic;Tales of Foggy Islands & Castles, For Medieval Lute, Gothic Guitar, Celtic Violin & Folk Flute;2/9/2024;21;album;3.39
+916;Sun Comes Down;1;46;FALSE;Iaco;47;4124;stutter house, tropical house;Sun Comes Down;1/9/2024;1;single;2.56
+917;Hekaya;9;15;FALSE;El Waili;53;553964;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;4.04
+918;L Awl;1;17;FALSE;El Waili;53;554064;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;3.84
+919;la2;8;19;FALSE;El Waili;53;554173;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;4.12
+920;F*ck With Me;7;0;TRUE;RIELL;52;78478;N/A;Chapter 2: Past;30/8/2024;7;album;3.03
+921;Al Origami;7;21;FALSE;El Waili;53;553964;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;3.25
+922;as good a reason;8;60;FALSE;Paris Paloma;66;785421;N/A;Cacophony;30/8/2024;15;album;2.82
+923;Leltak Fol;3;47;FALSE;El Waili;53;554064;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;3.49
+924;Love From U;1;26;FALSE;Ericovich;41;11036;nightcore;Love From U;30/8/2024;1;single;1.87
+925;Mafiish;4;21;FALSE;El Waili;53;554173;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;3.47
+926;Mnml;6;24;FALSE;El Waili;53;553964;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;2.46
+927;Mstny;2;17;FALSE;El Waili;53;554173;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;2.98
+928;MTSR74;5;17;FALSE;El Waili;53;553964;egyptian hip hop, arabic hip hop, egyptian pop, mahraganat;L NOR;30/8/2024;9;album;2.82
+929;my mind (now);1;43;FALSE;Paris Paloma;66;785952;N/A;Cacophony;30/8/2024;15;album;2.94
+930;Havana - Slowed;1;31;FALSE;Lucasta;32;637;N/A;Havana (Slowed);29/8/2024;1;single;3.14
+931;White Orchard (From 'Witcher 3');1;34;FALSE;Dreyma;37;5993;N/A;Journey to Velen;27/8/2024;4;single;2.6
+932;Lie To Girls;11;67;TRUE;Sabrina Carpenter;91;26538275;pop;Short n' Sweet;23/8/2024;12;album;3.36
+933;Taste;1;69;FALSE;Sabrina Carpenter;91;26538275;pop;Short n' Sweet;23/8/2024;12;album;2.62
+934;Coincidence;5;73;FALSE;Sabrina Carpenter;91;26538275;pop;Short n' Sweet;23/8/2024;12;album;2.73
+935;Donâ€™t Smile;12;77;FALSE;Sabrina Carpenter;91;26559943;pop;Short n' Sweet;23/8/2024;12;album;3.43
+936;Dumb & Poetic;8;68;TRUE;Sabrina Carpenter;91;26538275;pop;Short n' Sweet;23/8/2024;12;album;2.22
+937;Embrace It;1;76;TRUE;Ndotz;59;273361;N/A;Embrace It;23/8/2024;1;single;1.74
+938;Espresso;7;85;TRUE;Sabrina Carpenter;91;26559943;pop;Short n' Sweet;23/8/2024;12;album;2.92
+939;Good Graces;3;77;TRUE;Sabrina Carpenter;91;26559943;pop;Short n' Sweet;23/8/2024;12;album;3.08
+940;Juno;10;83;TRUE;Sabrina Carpenter;91;26516295;pop;Short n' Sweet;23/8/2024;12;album;3.71
+941;Bed Chem;6;82;FALSE;Sabrina Carpenter;91;26516295;pop;Short n' Sweet;23/8/2024;12;album;2.86
+942;Breathe Me In;1;45;FALSE;Besomorph;58;146944;slap house;Breathe Me In;23/8/2024;1;single;2.21
+943;Please Please Please;2;83;TRUE;Sabrina Carpenter;91;26516295;pop;Short n' Sweet;23/8/2024;12;album;3.1
+944;Sharpest Tool;4;72;TRUE;Sabrina Carpenter;91;26559943;pop;Short n' Sweet;23/8/2024;12;album;3.63
+945;Slim Pickins;9;70;FALSE;Sabrina Carpenter;91;26516295;pop;Short n' Sweet;23/8/2024;12;album;2.53
+946;i know - Omido Remix;1;46;TRUE;Ex Habit;59;130194;dark r&b;i know (Omido Remix);21/8/2024;2;single;2.32
+947;Too Sweet;1;81;FALSE;Hozier;82;9114093;N/A;Unreal Unearth: Unaired;19/8/2024;23;album;4.19
+948;L'Amour Toujours;1;28;FALSE;Reprobeater;45;2194;hypertechno;L'Amour Toujours;16/8/2024;1;single;2.12
+949;Memories;1;0;FALSE;AFRONOM;52;44492;afro house;Memories;16/8/2024;1;single;2.63
+950;Pass Me Round;1;20;FALSE;Otto Deburaux & the Clown Lounge;9;64;N/A;Pass Me Round;16/8/2024;1;single;3.27
+951;Raise The Red Flag;1;42;TRUE;Marilyn Manson;71;4968982;industrial metal, industrial rock, industrial, metal, nu metal;Raise The Red Flag;16/8/2024;2;single;4.82
+952;Die With A Smile;1;91;FALSE;Lady Gaga;88;42237551;art pop, pop;Die With A Smile;16/8/2024;1;single;4.19
+953;Devil I've Been (Feat. ERNEST);11;58;FALSE;Post Malone;86;47722935;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.04
+954;Finer Things (Feat. Hank Williams Jr.);2;59;FALSE;Post Malone;85;47716988;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.09
+955;Goes Without Saying (Feat. Brad Paisley);7;59;FALSE;Post Malone;86;47720209;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.53
+956;Guy For That (Feat. Luke Combs);8;76;FALSE;Post Malone;85;47716988;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;2.73
+957;Have The Heart (Feat. Dolly Parton);5;56;FALSE;Post Malone;86;47722935;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.05
+958;Hide My Gun (Feat. HARDY);15;61;TRUE;Post Malone;85;47716988;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.67
+959;I Had Some Help (Feat. Morgan Wallen);3;82;TRUE;Post Malone;85;47716988;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;2.97
+960;Wrong Ones (Feat. Tim McGraw);1;66;TRUE;Post Malone;86;47720209;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.26
+961;Yours;18;63;FALSE;Post Malone;85;47716988;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.32
+962;What Don't Belong To Me;6;66;FALSE;Post Malone;86;47720209;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.45
+963;Pour Me A Drink (Feat. Blake Shelton);4;70;FALSE;Post Malone;86;47722935;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.25
+964;Right About You;16;54;FALSE;Post Malone;86;47720209;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.05
+965;Losers (Feat. Jelly Roll);10;70;FALSE;Post Malone;85;47716988;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.48
+966;M-E-X-I-C-O (Feat. Billy Strings);17;57;FALSE;Post Malone;85;47716988;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;2.59
+967;Missinâ€™ You Like This (Feat. Luke Combs);13;62;FALSE;Post Malone;86;47720209;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.71
+968;Never Love You Again (Feat. Sierra Ferrell);12;56;FALSE;Post Malone;86;47722935;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.11
+969;New Woman (feat. ROSALÃA);1;69;TRUE;LISA;75;13266900;k-pop;New Woman (feat. ROSALÃA);15/8/2024;1;single;2.99
+970;Nosedive (Feat. Lainey Wilson);9;65;FALSE;Post Malone;85;47716988;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.2
+971;California Sober (Feat. Chris Stapleton);14;57;TRUE;Post Malone;86;47720209;pop, hip hop, country;F-1 Trillion;15/8/2024;18;album;3.4
+972;2am;1;40;FALSE;RIELL;52;78423;N/A;2am;9/8/2024;4;single;2.58
+973;BABY I'M BACK;1;74;TRUE;The Kid LAROI;79;6593079;N/A;THE FIRST TIME (DELUXE VERSION);9/8/2024;28;album;2.85
+974;Diet Pepsi;1;77;FALSE;Addison Rae;74;1364231;N/A;Diet Pepsi;9/8/2024;1;single;2.82
+975;GIRLS;6;67;TRUE;The Kid LAROI;79;6596750;N/A;THE FIRST TIME (DELUXE VERSION);9/8/2024;28;album;2.54
+976;I'll Just Say It;1;12;TRUE;Jana Diab;50;17560;egyptian pop;I'll Just Say It;9/8/2024;3;single;2.64
+977;Like a Prayer - Choir Version From â€œDeadpool & Wolverineâ€;3;71;FALSE;I'll Take You There Choir;52;8928;N/A;"Deadpool & Wolverine: Madonna's Like a Prayer"" EP""";9/8/2024;3;single;2.54
+978;Love Me Not;7;89;FALSE;Ravyn Lenae;76;844558;alternative r&b, indie soul;Bird's Eye;9/8/2024;11;album;3.55
+979;MUTT;1;72;TRUE;Leon Thomas;74;734468;N/A;MUTT;9/8/2024;1;single;3.22
+980;Take A Bite;1;70;FALSE;beabadoobee;78;6522709;bedroom pop;This Is How Tomorrow Moves;9/8/2024;14;album;2.64
+981;Underwater;1;24;FALSE;Kremor;31;1176;slap house, hypertechno;Underwater;9/8/2024;1;single;2.25
+982;Why Why Why;1;22;TRUE;Shawn Mendes;81;45700057;N/A;Shawn;8/8/2024;2;single;2.81
+983;LIFETIMES;1;58;FALSE;Katy Perry;83;38400585;pop;LIFETIMES;8/8/2024;1;single;3.2
+984;insane;1;29;TRUE;GOVAN;34;1434;N/A;insane;8/8/2024;1;single;1.94
+985;Rip;1;51;FALSE;Zummer;47;1186;N/A;Rip;8/8/2024;1;single;2.09
+986;Stargazing;1;41;FALSE;midnight Berlin;42;4170;hypertechno;Stargazing;8/8/2024;1;single;2.15
+987;Lifeline;3;60;FALSE;Alan Walker;78;41268567;N/A;Neon Nights;7/8/2024;4;single;3.37
+988;Good Luck, Babe!;1;42;FALSE;midnight Berlin;42;4171;hypertechno;Good Luck, Babe!;5/8/2024;1;single;1.76
+989;In a Night;1;59;FALSE;Asal;59;135959;N/A;Missing Something;2/8/2024;8;album;2.43
+990;ENEMIES (feat. bludnymph & Shift K3Y);2;35;FALSE;Gryffin;66;1010217;edm, melodic bass;PULSE;2/8/2024;14;album;2.43
+991;As Sick As The Secrets Within;1;43;FALSE;Marilyn Manson;71;4968982;industrial metal, industrial rock, industrial, metal, nu metal;As Sick As The Secrets Within;2/8/2024;1;single;5.59
+992;blue;1;84;FALSE;yung kai;70;1981867;N/A;blue;2/8/2024;1;single;3.57
+993;Liebe teilen;1;43;FALSE;Lena&Linus;39;32105;german indie, german indie pop, german pop;Liebe teilen;2/8/2024;1;single;3.67
+994;Love @ First Sound;1;21;TRUE;Ollie Twist;17;106;N/A;Love @ First Sound;2/8/2024;2;single;4
+995;My Memories;1;18;FALSE;Fabiano Abaixo Assinado;4;22;N/A;My Memories;1/8/2024;1;single;3.03
+996;Guess featuring billie eilish;1;49;FALSE;Charli xcx;82;6318755;hyperpop, art pop;Guess featuring Billie Eilish;1/8/2024;1;single;2.38
+997;Her;1;77;FALSE;The American Dawn;59;68931;N/A;Her;26/7/2024;1;single;3.56
+998;Touch;1;86;FALSE;KATSEYE;83;5285995;k-pop;Touch;26/7/2024;1;single;2.16
+999;Sailor Song;1;5;FALSE;Gigi Perez;75;1641193;N/A;Sailor Song;26/7/2024;1;single;3.53
+1000;Space In My Arms;1;23;FALSE;Now O Later;43;2599;hypertechno;Space In My Arms;26/7/2024;1;single;2.55
+1001;Nasty Nasty;1;46;TRUE;Rumelis;49;8741;dark r&b;Nasty Nasty;25/7/2024;2;single;2.29
+1002;Only You - Re-Recorded;1;0;FALSE;The Platters;57;864537;doo-wop;Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition);24/7/2024;50;compilation;2.73
+1003;I'm With You;11;0;FALSE;Avril Lavigne;76;12006589;N/A;Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition);24/7/2024;50;compilation;3.73
+1004;Glamorous;5;0;FALSE;Fergie;68;6157207;N/A;Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition);24/7/2024;50;compilation;2.96
+1005;The Power Of Love - From â€œBack To The Futureâ€ Soundtrack;7;0;FALSE;Huey Lewis & The News;62;1745641;N/A;Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition);24/7/2024;50;compilation;3.89
+1006;SCREAM MY NAME;2;52;FALSE;Montell Fish;72;2131649;N/A;DISTRACTION / SCREAM MY NAME;23/7/2024;2;single;2.66
+1007;I Adore You (feat. Daecolm);1;84;FALSE;HUGEL;77;662191;latin house, afro house, techengue;I Adore You (feat. Daecolm);19/7/2024;1;single;3.56
+1008;I'd Rather Lose You Than My Mind;1;40;FALSE;RIELL;52;78423;N/A;I'd Rather Lose You Than My Mind;19/7/2024;3;single;2.41
+1009;Who;6;86;FALSE;Jimin;79;10841227;k-pop;MUSE;19/7/2024;7;album;2.84
+1010;Angel Of My Dreams;1;61;FALSE;JADE;65;299896;N/A;Angel Of My Dreams;19/7/2024;1;single;3.29
+1011;Teenage Dirtbag;1;1;FALSE;BRAN;47;9570;afro house, slap house;Teenage Dirtbag;18/7/2024;1;single;1.52
+1012;hate u love u;1;50;FALSE;Umur Anil Gokdag;56;18834;N/A;hate u love u;18/7/2024;1;single;2.66
+1013;I Think They Call This Love;1;74;FALSE;Elliot James Reay;57;302715;N/A;I Think They Call This Love;17/7/2024;1;single;3.22
+1014;KEEP UP;1;75;TRUE;Odetari;74;4573539;hyperpop, nightcore;KEEP UP // FROSTBITE;17/7/2024;2;single;2.22
+1015;Houdini;11;71;TRUE;Eminem;88;104559284;rap, hip hop;The Death of Slim Shady (Coup De GrÃ¢ce);12/7/2024;19;album;3.78
+1016;Sexy to Someone;2;71;FALSE;Clairo;78;6604924;bedroom pop;Charm;12/7/2024;11;album;3.46
+1017;Survivor - Techno;1;27;FALSE;Emilio;41;2296;hypertechno;Survivor (Techno);12/7/2024;1;single;1.93
+1018;Too Sweet;1;61;FALSE;The Macarons Project;54;362833;N/A;Too Sweet;12/7/2024;1;single;3.3
+1019;i always kinda knew youâ€™d be the death of me;2;61;FALSE;Artemas;74;1378074;N/A;yustyna;11/7/2024;14;album;2.26
+1020;Lose Control;1;3;FALSE;Besomage;50;12548;N/A;Lose Control;11/7/2024;1;single;2.42
+1021;Did It First (with Central Cee);1;67;TRUE;Ice Spice;69;4787436;N/A;Did It First (with Central Cee);11/7/2024;1;single;1.96
+1022;dirty little secret;6;65;FALSE;Artemas;74;1377042;N/A;yustyna;11/7/2024;14;album;3.02
+1023;Dreams;2;6;FALSE;Tamba Tha God;0;23;N/A;My Reality;11/7/2024;8;album;3.07
+1024;wet dreams;1;54;FALSE;Artemas;74;1378074;N/A;wet dreams;10/7/2024;3;single;1.66
+1025;Big Dawgs;1;76;TRUE;Hanumankind;66;876078;malayalam hip hop, desi hip hop;Big Dawgs;9/7/2024;1;single;3.17
+1026;I Really Want To Stay at Your House;1;41;FALSE;Cour;46;6584;slap house;I Really Want To Stay at Your House;9/7/2024;1;single;3.1
+1027;Good Girl;1;53;FALSE;BURY;52;21782;dark r&b;Good Girl;5/7/2024;3;single;2.8
+1028;Good Girl - Sped up;2;41;FALSE;BURY;52;21748;dark r&b;Good Girl;5/7/2024;3;single;2.49
+1029;It's A Feeling;1;50;FALSE;Sigala;64;1581188;N/A;It's A Feeling;5/7/2024;1;single;3.15
+1030;All I Want;1;43;FALSE;Oscen;35;17142;dark r&b;All I Want;5/7/2024;1;single;2.52
+1031;Sugar, We're Going Down;1;44;FALSE;Tweekacore;38;25554;happy hardcore, hardstyle;Sugar, We're Going Down;5/7/2024;1;single;3
+1032;Shivers;1;23;FALSE;K3YN0T3;47;1987;hypertechno;Shivers;5/7/2024;1;single;2.48
+1033;Secrets;1;0;FALSE;Hypermorph;43;5109;hypertechno;Secrets;4/7/2024;1;single;2.38
+1034;Dancing All Alone - BOVSKI Remix;1;45;FALSE;EMMY;49;45041;N/A;Dancing All Alone (BOVSKI Remix);3/7/2024;1;single;2.2
+1035;Tough;1;70;FALSE;Quavo;76;8079123;N/A;Tough;3/7/2024;1;single;3.14
+1036;Buzzin';1;60;TRUE;lagosta;48;41420;emo rap;Buzzin';29/6/2024;1;single;3.27
+1037;Accent (feat. GloRilla);11;49;TRUE;Megan Thee Stallion;76;10890822;N/A;MEGAN;28/6/2024;18;album;3.32
+1038;Alibi (with Pabllo Vittar & Yseult);1;77;FALSE;Sevdaliza;69;917778;N/A;Alibi (with Pabllo Vittar & Yseult);28/6/2024;1;single;2.69
+1039;B.A.S. (feat. Kyle Richh);6;62;TRUE;Megan Thee Stallion;76;10888670;N/A;MEGAN;28/6/2024;18;album;3.44
+1040;BOA;9;57;TRUE;Megan Thee Stallion;76;10895519;N/A;MEGAN;28/6/2024;18;album;2.57
+1041;Broke His Heart;5;43;TRUE;Megan Thee Stallion;76;10888670;N/A;MEGAN;28/6/2024;18;album;2.65
+1042;Umbrella;1;38;FALSE;BEAUZ;58;210575;hard techno;Umbrella;28/6/2024;1;single;2.57
+1043;Paper Together (feat. UGK);12;40;TRUE;Megan Thee Stallion;76;10888670;N/A;MEGAN;28/6/2024;18;album;3.59
+1044;Rattle;2;47;TRUE;Megan Thee Stallion;76;10890822;N/A;MEGAN;28/6/2024;18;album;3.42
+1045;Spin (feat. Victoria MonÃ©t);13;51;TRUE;Megan Thee Stallion;76;10888670;N/A;MEGAN;28/6/2024;18;album;3.12
+1046;good2u;1;40;FALSE;GOVAN;34;1434;N/A;good2u;28/6/2024;1;single;2.33
+1047;HISS;1;58;TRUE;Megan Thee Stallion;76;10890822;N/A;MEGAN;28/6/2024;18;album;3.21
+1048;Cobra;18;50;TRUE;Megan Thee Stallion;76;10890822;N/A;MEGAN;28/6/2024;18;album;2.81
+1049;Collide;1;23;FALSE;PuFFcorn;21;23907;future house;Collide;28/6/2024;1;single;2.57
+1050;Down Stairs DJ;14;42;TRUE;Megan Thee Stallion;76;10888670;N/A;MEGAN;28/6/2024;18;album;2.73
+1051;Figueroa;3;43;TRUE;Megan Thee Stallion;76;10892928;N/A;MEGAN;28/6/2024;18;album;2.39
+1052;Find Out;8;42;TRUE;Megan Thee Stallion;76;10888670;N/A;MEGAN;28/6/2024;18;album;2.59
+1053;GIRLS;1;64;TRUE;The Kid LAROI;79;6595164;N/A;GIRLS;28/6/2024;2;single;2.54
+1054;Mamushi (feat. Yuki Chiba);10;72;TRUE;Megan Thee Stallion;76;10892928;N/A;MEGAN;28/6/2024;18;album;2.61
+1055;Miami Blue (feat. Big K.R.I.T. & Buddah Bless);15;46;TRUE;Megan Thee Stallion;76;10888670;N/A;MEGAN;28/6/2024;18;album;2.62
+1056;Moody Girl;17;43;TRUE;Megan Thee Stallion;76;10888670;N/A;MEGAN;28/6/2024;18;album;2.79
+1057;Otaku Hot Girl;7;61;TRUE;Megan Thee Stallion;76;10890822;N/A;MEGAN;28/6/2024;18;album;2.64
+1058;Where Them Girls At;4;57;TRUE;Megan Thee Stallion;76;10890822;N/A;MEGAN;28/6/2024;18;album;3.19
+1059;Worthy;16;43;TRUE;Megan Thee Stallion;76;10892928;N/A;MEGAN;28/6/2024;18;album;2.32
+1060;Rockstar;1;74;TRUE;LISA;75;13266900;k-pop;Rockstar;27/6/2024;5;single;2.3
+1061;No Caller Id;1;49;FALSE;Corena;38;1676;N/A;No Caller Id;27/6/2024;1;single;2.73
+1062;KEHLANI;1;71;FALSE;Jordan Adetunji;61;340128;sexy drill;KEHLANI;24/6/2024;3;single;2.03
+1063;I Love You, I'm Sorry;4;86;TRUE;Gracie Abrams;82;7412007;N/A;The Secret of Us;21/6/2024;13;album;2.61
+1064;Can't Forget You;1;57;FALSE;LUM!X;63;224322;slap house, melbourne bounce;Can't Forget You;21/6/2024;1;single;2.6
+1065;the boy is mine;2;33;FALSE;Ariana Grande;90;107374593;pop;the boy is mine (Remix);21/6/2024;2;single;2.89
+1066;The Future Is A Foreign Land;1;56;FALSE;Ghost;73;3770138;metal, hard rock;The Future Is A Foreign Land;21/6/2024;1;single;3.75
+1067;us. (feat. Taylor Swift);5;75;TRUE;Gracie Abrams;82;7403257;N/A;The Secret of Us;21/6/2024;13;album;4.04
+1068;Messy;5;83;TRUE;Lola Young;77;1460038;N/A;This Wasn't Meant For You Anyway;21/6/2024;11;album;4.73
+1069;Si Antes Te Hubiera Conocido;1;83;FALSE;KAROL G;87;60395783;reggaeton, latin, urbano latino;Si Antes Te Hubiera Conocido;21/6/2024;1;single;3.26
+1070;Conceited;4;70;FALSE;Lola Young;77;1460038;N/A;This Wasn't Meant For You Anyway;21/6/2024;11;album;3.99
+1071;Close To You;13;78;FALSE;Gracie Abrams;82;7403257;N/A;The Secret of Us;20/6/2024;13;album;3.76
+1072;KEHLANI (REMIX) [feat. Kehlani];1;65;TRUE;Jordan Adetunji;61;340128;sexy drill;KEHLANI (REMIX) [feat. Kehlani];20/6/2024;1;single;2.99
+1073;teen romance;2;69;TRUE;Lil Peep;82;15684530;emo rap, cloud rap;teen romance;19/6/2024;3;single;2.83
+1074;DEVIL IS A LIE;1;72;TRUE;Tommy Richman;68;938200;N/A;DEVIL IS A LIE;14/6/2024;1;single;2.18
+1075;Candy Paint;7;44;TRUE;Normani;66;2956534;N/A;DOPAMINE;14/6/2024;13;album;2.84
+1076;Cheerleader;1;22;FALSE;Lexdez;14;486;melodic bass, future bass;Cheerleader;14/6/2024;1;single;3.32
+1077;NEW DROP;2;81;TRUE;Don Toliver;85;7473754;N/A;HARDSTONE PSYCHO;14/6/2024;16;album;3.62
+1078;Nothing's New;1;41;FALSE;CADDY;38;963;N/A;Nothing's New;14/6/2024;1;single;3.21
+1079;Nonstop;1;37;FALSE;Besomage;50;12471;N/A;Nonstop;13/6/2024;1;single;2.06
+1080;Mean girls;13;65;TRUE;Charli xcx;82;6315216;hyperpop, art pop;BRAT;7/6/2024;15;album;3.15
+1081;Move;1;82;FALSE;Adam Port;71;334659;afro house, house, afro tech;Move;7/6/2024;1;single;2.95
+1082;No Promises;1;39;FALSE;Topic;72;318142;N/A;No Promises;7/6/2024;1;single;2.6
+1083;Club classics;2;70;FALSE;Charli xcx;82;6322030;hyperpop, art pop;BRAT;7/6/2024;15;album;2.55
+1084;Escape Plan;1;21;TRUE;Jana Diab;50;17560;egyptian pop;Escape Plan;7/6/2024;1;single;2.31
+1085;Everything is romantic;7;75;FALSE;Charli xcx;82;6322030;hyperpop, art pop;BRAT;7/6/2024;15;album;3.39
+1086;Girl, so confusing;10;67;FALSE;Charli xcx;82;6318755;hyperpop, art pop;BRAT;7/6/2024;15;album;2.9
+1087;YAD;1;0;TRUE;Vanna Rainelle;57;90428;dark r&b;YAD;7/6/2024;1;single;3.01
+1088;Sympathy is a knife;3;74;TRUE;Charli xcx;82;6322030;hyperpop, art pop;BRAT;7/6/2024;15;album;2.51
+1089;Talk talk;5;68;FALSE;Charli xcx;82;6315216;hyperpop, art pop;BRAT;7/6/2024;15;album;2.69
+1090;Von dutch;6;79;TRUE;Charli xcx;82;6318755;hyperpop, art pop;BRAT;7/6/2024;15;album;2.73
+1091;360;1;76;TRUE;Charli xcx;82;6315216;hyperpop, art pop;BRAT;7/6/2024;15;album;2.23
+1092;365;15;75;TRUE;Charli xcx;82;6318755;hyperpop, art pop;BRAT;7/6/2024;15;album;3.39
+1093;8 Years Old;1;30;FALSE;RIELL;52;78478;N/A;8 Years Old;7/6/2024;1;single;3.13
+1094;Apple;11;76;FALSE;Charli xcx;82;6322030;hyperpop, art pop;BRAT;7/6/2024;15;album;2.52
+1095;B2b;12;75;FALSE;Charli xcx;82;6318755;hyperpop, art pop;BRAT;7/6/2024;15;album;2.97
+1096;BMXXing;1;50;TRUE;mgk;78;5642365;N/A;BMXXing;7/6/2024;1;single;2.59
+1097;Rewind;8;63;FALSE;Charli xcx;82;6318755;hyperpop, art pop;BRAT;7/6/2024;15;album;2.8
+1098;So I;9;62;FALSE;Charli xcx;82;6322030;hyperpop, art pop;BRAT;7/6/2024;15;album;3.52
+1099;I might say something stupid;4;62;FALSE;Charli xcx;82;6318755;hyperpop, art pop;BRAT;7/6/2024;15;album;1.82
+1100;I think about it all the time;14;59;FALSE;Charli xcx;82;6318755;hyperpop, art pop;BRAT;7/6/2024;15;album;2.26
+1101;Espresso;2;67;FALSE;Sabrina Carpenter;91;26516295;pop;Please Please Please;6/6/2024;2;single;2.92
+1102;Please Please Please;1;79;TRUE;Sabrina Carpenter;91;26516295;pop;Please Please Please;6/6/2024;2;single;3.1
+1103;Divine - Acoustic Version;1;0;FALSE;Curos;35;63897;N/A;Divine (Acoustic Version);5/6/2024;1;single;3.2
+1104;It Follows;1;7;FALSE;Cokasian;27;4909;darkwave, post-punk, cold wave;It Follows;4/6/2024;1;single;2.83
+1105;NO RESPECT FREESTYLE;1;49;TRUE;Lil Peep;82;15684530;emo rap, cloud rap;NO RESPECT FREESTYLE;2/6/2024;1;single;4.53
+1106;No One Noticed;11;89;FALSE;The MarÃ­as;83;3777019;bedroom pop;Submarine;31/5/2024;14;album;3.94
+1107;Houdini;1;75;TRUE;Eminem;88;104517308;rap, hip hop;Houdini;31/5/2024;1;single;3.78
+1108;House Of Cards;1;36;FALSE;Naeleck;66;115119;electro house;House Of Cards;31/5/2024;1;single;2.2
+1109;Sienna;14;87;FALSE;The MarÃ­as;83;3777019;bedroom pop;Submarine;31/5/2024;14;album;3.74
+1110;Messy;1;67;FALSE;Lola Young;77;1460038;N/A;Messy;30/5/2024;1;single;4.73
+1111;Trippin' On A Tuesday;1;1;FALSE;Besomage;50;12548;N/A;Trippin' On A Tuesday;30/5/2024;1;single;1.93
+1112;Unsure - MEDUN Remix;2;37;FALSE;Alan Walker;78;41268567;N/A;Unsure (Remixes);28/5/2024;3;single;3.17
+1113;Pink Skies;1;83;FALSE;Zach Bryan;84;7325625;country, red dirt;Pink Skies;24/5/2024;1;single;3.24
+1114;Purify;1;29;FALSE;Surreal_dvd;55;8731;electroclash, witch house;Purify;24/5/2024;1;single;3.77
+1115;FEEL;1;65;FALSE;Beneld;53;19064;dark r&b;FEEL;24/5/2024;2;single;3.4
+1116;FEEL - sped up;2;51;FALSE;Beneld;53;19043;dark r&b;FEEL;24/5/2024;2;single;3.02
+1117;Make You Mine;1;44;FALSE;Valentin;40;2159;N/A;Make You Mine;24/5/2024;1;single;3.44
+1118;on the shore;1;22;FALSE;weeklyn;30;6940;emo rap;on the shore;24/5/2024;1;single;2.13
+1119;i like the way you kiss me;1;41;FALSE;Ericovich;41;11036;nightcore;i like the way you kiss me;24/5/2024;1;single;1.97
+1120;Addicted - Joel Corry Remix;3;23;TRUE;Zerb;69;174981;afro house;ADDICTED: REFRESHED;24/5/2024;8;single;2.45
+1121;BAND4BAND (feat. Lil Baby);1;73;TRUE;Central Cee;79;9676425;uk drill, drill, uk grime;BAND4BAND (feat. Lil Baby);23/5/2024;1;single;2.34
+1122;Wanna Be Loved;1;62;FALSE;The Red Clay Strays;71;1133411;country;Wanna Be Loved;22/5/2024;1;single;3.62
+1123;Seasons;1;1;FALSE;Sam Austins;49;54011;N/A;Seasons;21/5/2024;1;single;2.62
+1124;SKINNY;1;77;FALSE;Billie Eilish;90;118692183;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;3.66
+1125;THE DINER;8;76;FALSE;Billie Eilish;90;118692183;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;3.1
+1126;THE GREATEST;6;81;FALSE;Billie Eilish;90;118692183;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;4.89
+1127;BIRDS OF A FEATHER;4;94;FALSE;Billie Eilish;90;118692183;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;3.5
+1128;BITTERSUITE;9;76;FALSE;Billie Eilish;90;118728633;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;4.97
+1129;BLUE;10;80;FALSE;Billie Eilish;90;118760311;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;5.71
+1130;CHIHIRO;3;86;FALSE;Billie Eilish;90;118728633;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;5.05
+1131;WILDFLOWER;5;92;FALSE;Billie Eilish;90;118692183;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;4.35
+1132;Lâ€™AMOUR DE MA VIE;7;79;FALSE;Billie Eilish;90;118692183;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;5.56
+1133;Easy On Me;1;21;FALSE;A17N;27;893;latin house, hypertechno;Easy On Me;17/5/2024;1;single;2.41
+1134;Espresso;1;43;FALSE;midnight Berlin;42;4171;hypertechno;Espresso;17/5/2024;1;single;1.81
+1135;LUNCH;2;81;FALSE;Billie Eilish;90;118692183;alternative pop, electropop, dark pop;HIT ME HARD AND SOFT;17/5/2024;10;album;2.99
+1136;Mabrouk;1;20;FALSE;Allison Amber Hage;17;69;N/A;Mabrouk;16/5/2024;1;single;2.47
+1137;Bad Mood;2;31;FALSE;Munboi;24;818;N/A;Swipe Left;16/5/2024;3;single;2.22
+1138;No Shade at Pitti;1;47;FALSE;The Chainsmokers;80;21360805;N/A;No Hard Feelings;10/5/2024;6;single;3.56
+1139;one of wun;2;80;TRUE;Gunna;85;10353625;melodic rap;One of Wun;10/5/2024;20;album;2.4
+1140;Stargazing;1;84;FALSE;Myles Smith;74;1317349;N/A;Stargazing;10/5/2024;1;single;2.87
+1141;whatsapp (wassam);4;58;TRUE;Gunna;85;10348240;melodic rap;One of Wun;10/5/2024;20;album;2.47
+1142;Holding Out For A Hero;1;30;FALSE;IAN SIZE;32;1844;melodic bass, nightcore, bass music;Holding Out For A Hero;10/5/2024;1;single;2.42
+1143;I Got It;1;30;FALSE;Jordan Parker;34;2657;N/A;I Got It;10/5/2024;1;single;3.53
+1144;I Had Some Help (Feat. Morgan Wallen);1;80;TRUE;Post Malone;85;47716988;pop, hip hop, country;I Had Some Help;10/5/2024;1;single;2.97
+1145;i like the way you kiss me;1;41;FALSE;midnight Berlin;42;4083;hypertechno;i like the way you kiss me;10/5/2024;1;single;2.38
+1146;the climax;3;25;FALSE;toon;37;10928;N/A;the routine;6/5/2024;5;single;1.26
+1147;the exposition;1;33;FALSE;toon;37;10928;N/A;the routine;6/5/2024;5;single;1.15
+1148;falling action;4;26;FALSE;toon;37;10925;N/A;the routine;6/5/2024;5;single;1.17
+1149;rising action;2;29;FALSE;toon;37;10925;N/A;the routine;6/5/2024;5;single;1.17
+1150;Not Like Us;1;86;TRUE;Kendrick Lamar;89;44592005;hip hop, west coast hip hop;Not Like Us;4/5/2024;1;single;4.56
+1151;Love Me Not;1;84;FALSE;Ravyn Lenae;76;843345;alternative r&b, indie soul;Love Me Not / Love Is Blind;3/5/2024;2;single;3.55
+1152;Strangers;1;39;FALSE;CADDY;38;958;N/A;Strangers;3/5/2024;3;single;2.87
+1153;I Don't Wanna Wait - Hardwell & Olly James Remix;1;63;FALSE;David Guetta;87;27139342;edm;I Don't Wanna Wait (Hardwell & Olly James Remix);3/5/2024;3;single;3.05
+1154;Illusion;7;74;FALSE;Dua Lipa;85;46891061;pop;Radical Optimism;3/5/2024;11;album;3.13
+1155;Training Season;3;79;FALSE;Dua Lipa;85;46891061;pop;Radical Optimism;3/5/2024;11;album;3.49
+1156;THE RIDE;1;64;TRUE;Omido;59;72278;dark r&b;THE RIDE;2/5/2024;2;single;2.59
+1157;Calling You;1;42;FALSE;Jacob Storey;32;3246;dark r&b;Calling You;2/5/2024;3;single;2.46
+1158;Where You Are;1;34;FALSE;Rival;50;85529;N/A;Where You Are;1/5/2024;1;single;3.87
+1159;Calabria Revived;1;41;FALSE;Marco Lume;24;246;rally house;Calabria Revived;29/4/2024;1;single;1.95
+1160;THE RIDE - SPED UP;1;0;TRUE;Omido;59;72278;dark r&b;THE RIDE (SPED UP);26/4/2024;1;single;2.31
+1161;We Good (feat. Shibui);1;30;FALSE;Prezioso;62;159294;italo dance;We Good (feat. Shibui);26/4/2024;1;single;2.91
+1162;Make You Mine;1;28;FALSE;chicago city;21;730;slap house, nightcore;Make You Mine;26/4/2024;1;single;2.95
+1163;MILLION DOLLAR BABY;1;82;FALSE;Tommy Richman;68;937775;N/A;MILLION DOLLAR BABY;26/4/2024;2;single;2.58
+1164;Neverender;1;73;FALSE;Justice;66;1400890;french house, new rave;Hyperdrama;26/4/2024;13;album;4.44
+1165;I Was Made For Lovinâ€™ You - from The Fall Guy;1;76;FALSE;YUNGBLUD;73;3204129;N/A;I Was Made For Lovin' You (from The Fall Guy);26/4/2024;1;single;4.35
+1166;Barbie (Can You Play Ken?);1;0;FALSE;lilster;45;16330;jersey club;Barbie (Can You Play Ken?);25/4/2024;1;single;2.89
+1167;PRETTY PLEASE;1;70;FALSE;Dutch Melrose;64;317426;dark r&b;PRETTY PLEASE;24/4/2024;2;single;2.77
+1168;PASSO BEM SOLTO - Slowed;3;84;FALSE;ATLXS;74;483247;phonk, brazilian phonk;PASSO BEM SOLTO;23/4/2024;5;single;1.93
+1169;Peter;28;70;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.73
+1170;Push Ups;1;70;TRUE;Drake;95;103067383;rap;Push Ups;19/4/2024;1;single;3.87
+1171;Robin;30;66;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.01
+1172;So High School;22;75;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.81
+1173;So Long, London;5;71;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.38
+1174;But Daddy I Love Him;6;69;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;5.67
+1175;Cassandra;27;65;TRUE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4
+1176;Chloe or Sam or Sophia or Marcus;20;70;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.55
+1177;Guilty as Sin?;9;74;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.23
+1178;Heartbeat (Speed Version);3;46;TRUE;Sped-O;41;6677;N/A;Because The Sped Ups;19/4/2024;7;album;3.74
+1179;How Did It End?;21;72;FALSE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.97
+1180;How Do You Sleep?;1;31;FALSE;ILURO;41;8658;N/A;How Do You Sleep?;19/4/2024;1;single;2.61
+1181;I Can Do It With a Broken Heart;13;71;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.63
+1182;I Can Fix Him (No Really I Can);11;66;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;2.6
+1183;I Hate It Here;23;70;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.06
+1184;I Look in People's Windows;25;67;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;2.19
+1185;imgonnagetyouback;18;72;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.7
+1186;thanK you aIMee;24;65;TRUE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.39
+1187;The Albatross;19;67;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.06
+1188;The Alchemy;15;69;FALSE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.28
+1189;The Black Dog;17;71;TRUE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.98
+1190;The Bolter;29;69;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.97
+1191;The Manuscript;31;66;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.74
+1192;The Prophecy;26;74;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.16
+1193;The Smallest Man Who Ever Lived;14;71;TRUE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.09
+1194;The Tortured Poets Department;2;70;TRUE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.88
+1195;loml;12;74;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.61
+1196;Looking For;1;39;FALSE;Johnning;51;43226;N/A;Looking For;19/4/2024;1;single;3.23
+1197;My Boy Only Breaks His Favorite Toys;3;71;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.39
+1198;Whoâ€™s Afraid of Little Old Me?;10;70;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;5.56
+1199;Clara Bow;16;66;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.61
+1200;Down Bad;4;71;TRUE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;4.35
+1201;Florida!!! (feat. Florence + The Machine);8;69;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.59
+1202;Fortnight (feat. Post Malone);1;72;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.81
+1203;Fresh Out The Slammer;7;69;FALSE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY;19/4/2024;31;album;3.51
+1204;Clara Bow;16;57;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;3.61
+1205;Down Bad;4;73;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;4.35
+1206;Fortnight (feat. Post Malone);1;81;FALSE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;3.81
+1207;Guilty as Sin?;9;73;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;4.23
+1208;I Can Do It With a Broken Heart;13;80;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;3.63
+1209;I Can Fix Him (No Really I Can);11;57;FALSE;Taylor Swift;100;145489371;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;2.6
+1210;So Long, London;5;68;FALSE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;4.38
+1211;The Alchemy;15;65;FALSE;Taylor Swift;100;145443567;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;3.28
+1212;loml;12;71;TRUE;Taylor Swift;100;145396321;country, pop, indie, folk;THE TORTURED POETS DEPARTMENT;18/4/2024;16;album;4.61
+1213;Zoltraak;1;53;FALSE;Evan Call;58;78550;anime;Frieren: Beyond Journey's End (Original Soundtrack);17/4/2024;70;album;2.35
+1214;don't worry babe;1;52;FALSE;Ex Habit;59;130505;dark r&b;don't worry babe;15/4/2024;1;single;3.05
+1215;Roi - Instrumental Slowed;2;67;FALSE;Mckyyy;59;104940;N/A;Roi;15/4/2024;3;single;1.54
+1216;ALL I WANTED WAS U;1;59;FALSE;Ex Habit;59;130298;dark r&b;ALL I WANTED WAS U;14/4/2024;2;single;3.45
+1217;DO IT;1;53;FALSE;Beneld;53;19010;dark r&b;DO IT;14/4/2024;2;single;2.67
+1218;on your knees;1;57;FALSE;Ex Habit;59;130194;dark r&b;on your knees;14/4/2024;1;single;2.39
+1219;Nasty;1;67;FALSE;Tinashe;76;3084389;alternative r&b;Nasty;12/4/2024;1;single;2.93
+1220;New Divide;16;67;FALSE;Linkin Park;88;31785695;nu metal, rap metal, rock, alternative metal;Papercuts;12/4/2024;20;album;4.48
+1221;Papercut;4;44;FALSE;Linkin Park;88;31785695;nu metal, rap metal, rock, alternative metal;Papercuts;12/4/2024;20;album;3.1
+1222;Phantom Pain;4;47;FALSE;girl in red;73;8768495;bedroom pop;I'M DOING IT AGAIN BABY!;12/4/2024;10;album;2.86
+1223;QWERTY;14;55;FALSE;Linkin Park;88;31785695;nu metal, rap metal, rock, alternative metal;Papercuts;12/4/2024;20;album;3.35
+1224;SONG4 SOME1;1;26;FALSE;THE RUMORS;23;700;N/A;SONG4 SOME1;12/4/2024;1;single;2.43
+1225;I want it all;1;55;FALSE;Omido;59;72278;dark r&b;I want it all;12/4/2024;2;single;2.79
+1226;You Need Me Now? (feat. Sabrina Carpenter);5;62;TRUE;girl in red;73;8763286;bedroom pop;I'M DOING IT AGAIN BABY!;12/4/2024;10;album;3.1
+1227;DOING IT AGAIN BABY;2;47;FALSE;girl in red;73;8771418;bedroom pop;I'M DOING IT AGAIN BABY!;12/4/2024;10;album;2.42
+1228;Espresso;1;84;TRUE;Sabrina Carpenter;91;26559943;pop;Espresso;12/4/2024;1;single;2.92
+1229;Feather;1;40;TRUE;CADDY;38;966;N/A;Feather;12/4/2024;2;single;3.01
+1230;Friendly Fire;20;48;FALSE;Linkin Park;88;31785695;nu metal, rap metal, rock, alternative metal;Papercuts;12/4/2024;20;album;2.94
+1231;Trojan;1;42;FALSE;Nic Dean;41;30239;dark r&b;Trojan;12/4/2024;1;single;2.32
+1232;A Bar Song (Tipsy);1;82;TRUE;Shaboozey;76;1449816;N/A;A Bar Song (Tipsy);12/4/2024;1;single;2.85
+1233;Breaking the Habit;5;44;FALSE;Linkin Park;88;31785695;nu metal, rap metal, rock, alternative metal;Papercuts;12/4/2024;20;album;3.28
+1234;BURN IT DOWN;12;46;FALSE;Linkin Park;88;31796892;nu metal, rap metal, rock, alternative metal;Papercuts;12/4/2024;20;album;3.83
+1235;CASTLE OF GLASS;10;44;FALSE;Linkin Park;88;31796892;nu metal, rap metal, rock, alternative metal;Papercuts;12/4/2024;20;album;3.42
+1236;Illusion;1;6;FALSE;Dua Lipa;85;46895665;pop;Illusion;11/4/2024;4;single;3.13
+1237;Life;1;64;FALSE;ConKi;61;26106;N/A;Life;8/4/2024;1;single;2.16
+1238;Secrets;1;63;FALSE;Omido;59;72172;dark r&b;Secrets;7/4/2024;1;single;2.63
+1239;Slow It Down;3;83;FALSE;Benson Boone;83;7045466;N/A;Fireworks & Rollerblades;5/4/2024;15;album;2.69
+1240;OKLOSER;4;54;TRUE;Doja Cat;86;34735147;N/A;Scarlet 2 CLAUDE;5/4/2024;24;album;2.81
+1241;All the Things She Said;1;69;FALSE;Robin Schulz;75;3275657;tropical house;All the Things She Said;5/4/2024;1;single;2.75
+1242;Beautiful Things;4;88;FALSE;Benson Boone;83;7045466;N/A;Fireworks & Rollerblades;5/4/2024;15;album;3
+1243;Good Luck, Babe!;1;89;FALSE;Chappell Roan;82;7305071;N/A;Good Luck, Babe!;5/4/2024;1;single;3.64
+1244;I Don't Wanna Wait;1;80;FALSE;David Guetta;87;27143729;edm;I Don't Wanna Wait;5/4/2024;2;single;2.49
+1245;i like the way you kiss me;5;60;FALSE;Artemas;74;1377042;N/A;i like the way you kiss me (remixes);5/4/2024;5;single;2.37
+1246;Winter;3;37;FALSE;RIELL;52;78423;N/A;Winter;5/4/2024;7;album;3.06
+1247;Santa;1;74;FALSE;Rvssian;71;2726605;trap latino;Santa;4/4/2024;1;single;3.21
+1248;angel dust;1;47;FALSE;akira2k;30;2899;electroclash, witch house;angel dust;29/3/2024;1;single;1.81
+1249;Monster;1;62;FALSE;Don Diablo;64;1844627;future house, edm;Monster;29/3/2024;1;single;2.4
+1250;II MOST WANTED;16;62;FALSE;BeyoncÃ©;84;41172203;N/A;COWBOY CARTER;29/3/2024;27;album;3.47
+1251;Favorite;1;72;FALSE;Isabel LaRosa;71;2569728;N/A;Favorite;29/3/2024;4;single;2.22
+1252;Feel It (From â€œInvincibleâ€);1;80;FALSE;d4vd;79;4681304;N/A;Feel It (From â€œInvincibleâ€);28/3/2024;1;single;2.63
+1253;Hello Shadow;1;49;FALSE;Sugar Jesus;47;4569;N/A;Hello Shadow;28/3/2024;1;single;3.01
+1254;I've been here before;1;30;FALSE;Sopperior;30;2964;N/A;I've been here before;27/3/2024;1;single;1.89
+1255;II MOST WANTED;16;53;FALSE;BeyoncÃ©;84;41172203;N/A;COWBOY CARTER;27/3/2024;27;album;3.47
+1256;Animals;1;52;FALSE;Umur Anil Gokdag;56;18834;N/A;Animals;25/3/2024;1;single;2.41
+1257;Magnetic;2;81;FALSE;ILLIT;74;3756729;k-pop;SUPER REAL ME;25/3/2024;4;single;2.67
+1258;Like That;6;82;TRUE;Future;88;22682234;rap;WE DON'T TRUST YOU;22/3/2024;17;album;4.46
+1259;logical;7;59;FALSE;Olivia Rodrigo;84;49050008;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.86
+1260;love is embarrassing;9;60;TRUE;Olivia Rodrigo;85;49083617;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;2.57
+1261;magic;4;66;FALSE;Medasin;53;146812;future bass;sounds;22/3/2024;9;album;5.94
+1262;Magic Don Juan (Princess Diana);8;58;TRUE;Future;88;22688560;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.67
+1263;making the bed;6;61;FALSE;Olivia Rodrigo;84;49050008;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.31
+1264;No Machine;4;54;FALSE;Adrianne Lenker;72;1453910;N/A;Bright Future;22/3/2024;12;album;3
+1265;obsessed;13;74;TRUE;Olivia Rodrigo;85;49083617;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;2.84
+1266;GTA;14;64;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.88
+1267;Ice Attack;3;62;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.32
+1268;Kisses (feat. bbyclose);1;23;FALSE;BL3SS;66;52913;N/A;Kisses (feat. bbyclose);22/3/2024;1;single;2.3
+1269;lacy;4;61;FALSE;Olivia Rodrigo;85;49067177;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;2.95
+1270;Where My Twin @ - Bonus;17;53;TRUE;Future;88;22688560;rap;WE DON'T TRUST YOU;22/3/2024;17;album;2.04
+1271;WTFYM;16;56;TRUE;Future;88;22682234;rap;WE DON'T TRUST YOU;22/3/2024;17;album;4.87
+1272;Young Metro;2;68;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.42
+1273;Oxygen;1;22;FALSE;Now O Later;43;2595;hypertechno;Oxygen;22/3/2024;1;single;2.63
+1274;pretty isnâ€™t pretty;11;61;TRUE;Olivia Rodrigo;85;49067177;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.32
+1275;Runnin Outta Time;10;57;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.42
+1276;scared of my guitar;15;69;FALSE;Olivia Rodrigo;85;49067177;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;4.39
+1277;Seen it All;15;53;TRUE;Future;88;22688560;rap;WE DON'T TRUST YOU;22/3/2024;17;album;2.99
+1278;Slimed In;7;57;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.24
+1279;so american;17;73;TRUE;Olivia Rodrigo;85;49083617;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;2.82
+1280;stranger;16;71;FALSE;Olivia Rodrigo;85;49067177;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.21
+1281;Ain't No Love;12;55;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.04
+1282;all-american bitch;1;62;TRUE;Olivia Rodrigo;85;49083617;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;2.76
+1283;bad idea right?;2;61;TRUE;Olivia Rodrigo;84;49050008;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.07
+1284;ballad of a homeschooled girl;5;61;FALSE;Olivia Rodrigo;85;49083617;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.38
+1285;Cinderella;9;72;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;2.83
+1286;teenage dream;12;59;FALSE;Olivia Rodrigo;84;49050008;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.7
+1287;the grudge;10;60;TRUE;Olivia Rodrigo;84;49050008;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.15
+1288;Too Sweet;1;75;FALSE;Hozier;82;9111905;N/A;Unheard;22/3/2024;4;single;4.19
+1289;Too Sweet;1;12;FALSE;Hozier;82;9112977;N/A;Unreal Unearth: Unheard;22/3/2024;20;album;4.19
+1290;Type Shit;4;80;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.8
+1291;vampire;3;60;TRUE;Olivia Rodrigo;84;49050008;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.66
+1292;We Don't Trust You;1;67;TRUE;Future;88;22675640;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.77
+1293;Whatcha Say;1;47;FALSE;LIZOT;60;110333;slap house, hypertechno;Whatcha Say;22/3/2024;1;single;2.32
+1294;Whatever (with Ava Max) - TiÃ«sto Remix;1;47;FALSE;Kygo;76;8670011;tropical house;Whatever (with Ava Max) - TiÃ«sto Remix;22/3/2024;1;single;2.76
+1295;Claustrophobic;5;56;TRUE;Future;88;22682234;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.7
+1296;Everyday Hustle;13;68;TRUE;Future;88;22682234;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.78
+1297;Fall Back;1;49;FALSE;Lithe;69;513404;dark r&b;Fall Back / Selfish Game;22/3/2024;2;single;2.15
+1298;Fried (She a Vibe);11;65;TRUE;Future;88;22688560;rap;WE DON'T TRUST YOU;22/3/2024;17;album;3.5
+1299;get him back!;8;61;TRUE;Olivia Rodrigo;84;49050008;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;3.51
+1300;girl iâ€™ve always been;14;65;FALSE;Olivia Rodrigo;85;49067177;pop rock, alternative pop, pop punk;GUTS (spilled);22/3/2024;17;album;2.02
+1301;Slow It Down;1;69;FALSE;Benson Boone;83;7045466;N/A;Slow It Down;21/3/2024;1;single;2.69
+1302;Jump;1;63;FALSE;Tyla;77;3505794;afrobeats;Jump;20/3/2024;1;single;2.45
+1303;Cheerleader;1;45;FALSE;Porter Robinson;59;1220599;edm, electronic;Cheerleader;20/3/2024;1;single;3.95
+1304;i like the way you kiss me;1;80;FALSE;Artemas;74;1377042;N/A;i like the way you kiss me;19/3/2024;1;single;2.37
+1305;Lady Killers II;1;77;TRUE;G-Eazy;74;6295804;N/A;Lady Killers II;17/3/2024;1;single;4.96
+1306;SLAY!;1;76;TRUE;Eternxlkz;66;613747;phonk, brazilian phonk;SLAY!;15/3/2024;4;single;1.78
+1307;Speed Of Light;1;42;FALSE;LEIDAN;24;545;N/A;Speed Of Light;15/3/2024;1;single;2.83
+1308;Let You Down (with Gabry Ponte);1;45;FALSE;DVBBS;56;1057994;edm, big room;Let You Down (with Gabry Ponte);15/3/2024;1;single;2.48
+1309;Never Lose Me;14;71;TRUE;Flo Milli;67;1567636;N/A;Fine Ho, Stay;15/3/2024;14;album;2.09
+1310;Not So Bad;1;26;FALSE;NO FEELS;19;610;deep house;Not So Bad;15/3/2024;1;single;2.86
+1311;What I Am;1;47;TRUE;ZAYN;77;24105967;N/A;What I Am;15/3/2024;1;single;3.52
+1312;Fire! (Tribbs Remix);1;42;FALSE;Alan Walker;78;41266350;N/A;Fire! (Tribbs Remix);15/3/2024;1;single;1.76
+1313;don't wanna break up again;3;70;TRUE;Ariana Grande;90;107389514;pop;eternal sunshine;8/3/2024;13;album;2.9
+1314;eternal sunshine;5;73;FALSE;Ariana Grande;90;107401919;pop;eternal sunshine;8/3/2024;13;album;3.5
+1315;Fetish;1;27;FALSE;Emilio;41;2292;hypertechno;Fetish;8/3/2024;1;single;2.84
+1316;Saturn Returns Interlude;4;59;FALSE;Ariana Grande;90;107374593;pop;eternal sunshine;8/3/2024;13;album;0.7
+1317;Spotlight - og version;1;48;FALSE;Lil Peep;82;15689879;emo rap, cloud rap;HATE ME;8/3/2024;3;single;2.86
+1318;Hate Me - og version;3;44;TRUE;Lil Peep;82;15684530;emo rap, cloud rap;HATE ME;8/3/2024;3;single;3.97
+1319;i wish i hated you;11;71;FALSE;Ariana Grande;90;107374593;pop;eternal sunshine;8/3/2024;13;album;2.56
+1320;imperfect for you;12;68;TRUE;Ariana Grande;90;107401919;pop;eternal sunshine;8/3/2024;13;album;3.04
+1321;intro (end of the world);1;77;TRUE;Ariana Grande;90;107374593;pop;eternal sunshine;8/3/2024;13;album;1.54
+1322;Journey;1;31;FALSE;Hans Zimmer;77;4777574;soundtrack;Kung Fu Panda 4 (Original Motion Picture Soundtrack);8/3/2024;22;album;1.86
+1323;yes, and?;9;72;TRUE;Ariana Grande;90;107401919;pop;eternal sunshine;8/3/2024;13;album;3.58
+1324;supernatural;6;82;FALSE;Ariana Grande;90;107374593;pop;eternal sunshine;8/3/2024;13;album;2.72
+1325;the boy is mine;8;79;TRUE;Ariana Grande;90;107401919;pop;eternal sunshine;8/3/2024;13;album;2.89
+1326;true story;7;66;FALSE;Ariana Grande;90;107401919;pop;eternal sunshine;8/3/2024;13;album;2.72
+1327;we can't be friends (wait for your love);10;79;FALSE;Ariana Grande;90;107374593;pop;eternal sunshine;8/3/2024;13;album;3.81
+1328;act ii: date @ 8 (feat. Drake) - remix;1;70;TRUE;4batz;62;669148;N/A;act ii: date @ 8 (feat. Drake) [remix];8/3/2024;1;single;3.85
+1329;bye;2;73;FALSE;Ariana Grande;90;107401919;pop;eternal sunshine;8/3/2024;13;album;2.74
+1330;LET THE WORLD BURN;1;79;FALSE;Chris Grey;72;963679;dark r&b;LET THE WORLD BURN;8/3/2024;2;single;2.72
+1331;Looking For You;2;49;TRUE;Lil Peep;82;15684530;emo rap, cloud rap;HATE ME;8/3/2024;3;single;3.3
+1332;ordinary things (feat. Nonna);13;62;FALSE;Ariana Grande;90;107401919;pop;eternal sunshine;8/3/2024;13;album;2.8
+1333;Beautiful Things;1;42;FALSE;midnight Berlin;42;4171;hypertechno;Beautiful Things;1/3/2024;1;single;2.05
+1334;UP!;1;66;FALSE;Forrest Frank;77;2268298;christian, christian pop, christian hip hop, worship, gospel r&b;UP!;1/3/2024;1;single;2.28
+1335;Overcompensate (edit);2;48;FALSE;Twenty One Pilots;83;25762646;N/A;Overcompensate;29/2/2024;2;single;3.17
+1336;My Love - Slowed + Reverb;1;17;TRUE;932sounds;31;23317;N/A;My Love (Slowed + Reverb);26/2/2024;1;single;5.68
+1337;Symphony;1;23;FALSE;ILURO;41;8658;N/A;Symphony;23/2/2024;1;single;2.2
+1338;HELLO;1;29;FALSE;Chris Gold;21;3925;N/A;HELLO;23/2/2024;1;single;2.04
+1339;I See Lights;5;42;FALSE;Zauntee;46;141405;christian hip hop, christian, christian pop;We Already Won;23/2/2024;20;album;1.92
+1340;SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt;1;54;TRUE;Switch Disco;53;122782;N/A;SLEEP TONIGHT (THIS IS THE LIFE) [with R3HAB and Sam Feldt];23/2/2024;1;single;2.27
+1341;Sorry;1;0;FALSE;SandÃ«ro;44;5733;N/A;Sorry;23/2/2024;1;single;2.67
+1342;Worm Ride;7;50;FALSE;Hans Zimmer;77;4777574;soundtrack;Dune: Part Two (Original Motion Picture Soundtrack);23/2/2024;25;album;2.33
+1343;A Time of Quiet Between the Storms;5;60;FALSE;Hans Zimmer;77;4780589;soundtrack;Dune: Part Two (Original Motion Picture Soundtrack);23/2/2024;25;album;4.36
+1344;Beautiful Things - Acoustic;1;72;FALSE;Benson Boone;83;7050520;N/A;Beautiful Things (Alternate Versions);23/2/2024;6;single;3.35
+1345;Saturn;1;77;FALSE;SZA;87;33043825;r&b;Saturn;22/2/2024;5;single;3.1
+1346;You Make My Heart Go;1;53;FALSE;Sad Puppy;48;45292;hypertechno;You Make My Heart Go;21/2/2024;1;single;2.1
+1347;Tell mÃ«;10;62;TRUE;Yeat;79;5976603;rage rap;2093;16/2/2024;22;album;4.06
+1348;Darlin';2;69;FALSE;Chase Matthew;64;468383;country, country hip hop;We All Grow Up;16/2/2024;6;single;2.75
+1349;linger x duvet;1;0;FALSE;SUKI;29;3595;N/A;linger x duvet;16/2/2024;1;single;1.88
+1350;Now;1;35;FALSE;Niklas Dee;64;84858;hypertechno, slap house;Now;16/2/2024;1;single;2.91
+1351;Prada;1;40;FALSE;midnight Berlin;42;4170;hypertechno;Prada;16/2/2024;2;single;2.12
+1352;If We Being RÃ«al;21;75;TRUE;Yeat;79;5978358;rage rap;2093;16/2/2024;22;album;2.87
+1353;Angel Of Darkness;1;33;FALSE;Ericovich;41;11030;nightcore;Angel Of Darkness;16/2/2024;1;single;2.18
+1354;Austin (Boots Stop Workin');4;82;TRUE;Dasha;67;416933;N/A;What Happens Now?;16/2/2024;8;album;2.86
+1355;Belong Together;1;75;FALSE;Mark Ambor;66;685131;N/A;Belong Together;16/2/2024;1;single;2.47
+1356;Training Season;1;74;FALSE;Dua Lipa;85;46886554;pop;Training Season;15/2/2024;4;single;3.49
+1357;Whatever She Wants;1;76;TRUE;Bryson Tiller;80;10566213;trap soul, r&b;Whatever She Wants;13/2/2024;1;single;2.68
+1358;TEXAS HOLD 'EM;1;73;TRUE;BeyoncÃ©;84;41172203;N/A;TEXAS HOLD 'EM;11/2/2024;1;single;3.89
+1359;TEXAS HOLD 'EM;1;58;TRUE;BeyoncÃ©;84;41172203;N/A;TEXAS HOLD 'EM;10/2/2024;3;single;3.89
+1360;Acquainted;17;39;TRUE;The Weeknd;93;112918137;r&b pop, alternative r&b, hip hop, synthpop;The Highlights (Deluxe);9/2/2024;36;compilation;5.81
+1361;Cruel Summer;7;39;FALSE;RIELL;52;78478;N/A;love 4.0;9/2/2024;13;compilation;3.97
+1362;Drowning In Us;1;20;FALSE;Now O Later;43;2595;hypertechno;Drowning In Us;9/2/2024;1;single;2.56
+1363;Lovin On Me;1;40;FALSE;midnight Berlin;42;4083;hypertechno;Lovin On Me;9/2/2024;1;single;2.28
+1364;make you mine;1;81;FALSE;Madison Beer;74;8500847;N/A;make you mine;9/2/2024;1;single;3.69
+1365;One Of The Girls (with JENNIE, Lily Rose Depp);19;62;FALSE;The Weeknd;93;112957721;r&b pop, alternative r&b, hip hop, synthpop;The Highlights (Deluxe);9/2/2024;36;compilation;4.07
+1366;Popular (with Playboi Carti & Madonna);26;58;TRUE;The Weeknd;93;112957721;r&b pop, alternative r&b, hip hop, synthpop;The Highlights (Deluxe);9/2/2024;36;compilation;3.59
+1367;Song For the Earth;8;43;FALSE;Jonna Jinton;38;71238;celtic;Songs & Callings;7/2/2024;8;album;1.08
+1368;Tell Ur Girlfriend;1;9;TRUE;Lay Bankz;63;721666;jersey club;Tell Ur Girlfriend;7/2/2024;1;single;2.07
+1369;ANGELS LIKE YOU;1;42;FALSE;Umur Anil Gokdag;56;18834;N/A;ANGELS LIKE YOU;5/2/2024;1;single;1.93
+1370;exes - Regard Remix;1;50;TRUE;Tate McRae;88;9249502;pop;exes (Regard Remix);2/2/2024;1;single;3.04
+1371;Gata Only;1;84;TRUE;FloyyMenor;76;2186739;reggaeton chileno;Gata Only;2/2/2024;1;single;3.7
+1372;Memories;1;57;FALSE;Dean Lewis;75;4156314;N/A;Memories;1/2/2024;1;single;2.99
+1373;[Solo-Leveling]SymphonicSuite-Lv.8;1;41;FALSE;Sawano Hiroyuki;65;728021;anime, soundtrack;[Solo-Leveling]SymphonicSuite-Lv.8;28/1/2024;1;single;2.68
+1374;Rescue Light;1;43;TRUE;Hurricane on Saturn;39;4952;N/A;Rescue Light;27/1/2024;1;single;3.32
+1375;Past Lives - K-391 Remix;1;29;FALSE;sapientdream;57;224595;N/A;Past Lives (K-391 Remix);26/1/2024;1;single;2.94
+1376;Popular (with Playboi Carti & Madonna);1;34;FALSE;The Weeknd;93;112957721;r&b pop, alternative r&b, hip hop, synthpop;Popular;26/1/2024;5;single;3.59
+1377;STAR WALKIN';1;35;TRUE;IAN SIZE;32;1843;melodic bass, nightcore, bass music;STAR WALKIN';26/1/2024;1;single;2.85
+1378;ur special to me;1;42;FALSE;Artemas;74;1378074;N/A;ur special to me;26/1/2024;4;single;1.9
+1379;Marry Me;1;41;FALSE;GOVAN;34;1434;N/A;Marry Me;26/1/2024;1;single;3.25
+1380;HISS;1;61;TRUE;Megan Thee Stallion;76;10888670;N/A;HISS;26/1/2024;1;single;3.21
+1381;DerniÃ¨re danse - Techno Mix;1;72;FALSE;Indila;69;2546276;french pop;DerniÃ¨re danse (Techno Mix);26/1/2024;1;single;3.28
+1382;FUNKED UP - SLOWED;3;71;FALSE;xxanteria;58;462135;phonk, brazilian phonk;FUNKED UP;19/1/2024;3;single;1.92
+1383;Never Let This Go;1;46;FALSE;Tom Frane;48;85781;N/A;Never Let This Go;19/1/2024;1;single;2.23
+1384;Beautiful Things;1;84;FALSE;Benson Boone;83;7055537;N/A;Beautiful Things;18/1/2024;1;single;3
+1385;"The Statues of Music (from Solo Leveling"") - Cover""";1;34;FALSE;Diego Mitre;56;28150;anime;"The Statues of Music (from Solo Leveling"") [Cover]""";17/1/2024;1;single;2.91
+1386;Home;1;4;FALSE;Good Neighbours;66;218657;N/A;Home;17/1/2024;1;single;2.62
+1387;LALALA;1;48;TRUE;Umur Anil Gokdag;56;18840;N/A;LALALA;14/1/2024;1;single;2.07
+1388;Igual Que Un Ãngel (with Peso Pluma);3;76;FALSE;Kali Uchis;83;9469943;N/A;ORQUÃDEAS;12/1/2024;14;album;4.33
+1389;Mwaki - TiÃ«sto's VIP Mix;2;65;FALSE;Zerb;68;174894;afro house;Mwaki (Major Lazer Remix);12/1/2024;3;single;2.67
+1390;Not My Fault (with Megan Thee Stallion);13;65;TRUE;ReneÃ© Rapp;72;1261419;N/A;Mean Girls (Music From The Motion Picture);12/1/2024;13;album;2.84
+1391;Wish I Didn't Love You;1;36;FALSE;BEAUZ;58;210805;hard techno;Wish I Didn't Love You;12/1/2024;1;single;2.43
+1392;yes, and?;1;71;TRUE;Ariana Grande;90;107374593;pop;yes, and?;12/1/2024;1;single;3.58
+1393;redrum;3;78;TRUE;21 Savage;84;23813959;N/A;american dream;12/1/2024;15;album;4.51
+1394;Scared To Start;1;79;FALSE;Michael Marcagi;64;274140;N/A;Scared To Start;12/1/2024;1;single;2.66
+1395;Talk To My Body;1;45;FALSE;LIZOT;60;110282;slap house, hypertechno;Talk To My Body;12/1/2024;1;single;2.45
+1396;The Reason;8;83;FALSE;Hoobastank;66;2742164;nu metal;The Reason (20th Anniversary);12/1/2024;17;album;3.88
+1397;Deep In Your Love;1;65;FALSE;Alok;76;11247155;brazilian bass, electronic, slap house, electro house;Deep In Your Love;12/1/2024;1;single;2.41
+1398;Don't Call Me Up - LA Vision Remix;1;38;FALSE;Madism;55;31871;tropical house;Don't Call Me Up (LA Vision Remix);12/1/2024;2;single;2.06
+1399;Cheri Cheri Lady - Slowed;1;0;FALSE;lilster;45;16330;jersey club;Cheri Cheri Lady (Slowed);12/1/2024;1;single;3.85
+1400;Carsick;1;36;TRUE;K.Flay;61;644963;N/A;Carsick;11/1/2024;1;single;2.74
+1401;All My Life;1;59;FALSE;TiÃ«sto;80;7978695;edm, trance, big room;All My Life;5/1/2024;1;single;2.44
+1402;I Wouldn't Mind (Remix) - Merrily We Fall out of Line;1;0;FALSE;Hiko;56;139354;nightcore;I Wouldn't Mind (Remix) - Merrily We Fall out of Line;5/1/2024;1;single;3.24
+1403;One Of The Girls X The Hills - Sped Up;2;45;FALSE;Mckyyy;59;104869;N/A;One Of The Girls X The Hills;1/1/2024;3;single;2.7
+1404;Strangers;13;63;FALSE;Lewis Capaldi;79;14039018;soft pop;Broken By Desire To Be Heavenly Sent (Extended Edition);1/1/2024;17;album;3.57
