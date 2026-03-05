@@ -160,9 +160,9 @@ figure {
 
 plt.style.use("dark_background")
 
-SPOTIFY_GREEN = "#1DB954"
+SPOTIFY_GREEN = "#2FCA65"
 
-st.title("🎧 Spotify Music Analytics")
+st.title("🎧 Spotify Music Analytics") 
 st.caption("Explora tendencias, artistas y popularidad")
 
 # CARGAR DATA
