@@ -74,6 +74,8 @@ div[data-testid="stSlider"] div[role="slider"] {
     border: none !important;
 }
 
+            
+            
 </style>
 """, unsafe_allow_html=True)
 
@@ -313,6 +315,8 @@ with tab2:
         ancho = 0.25
         posiciones = range(len(años))
 
+        colores = ['#1DB954', "#6DBB88", "#1A5832"]
+
         for i, tipo in enumerate(tipos):
             datos_tipo = promedio_anual[
                 promedio_anual["album_type"] == tipo
@@ -328,7 +332,8 @@ with tab2:
                 [p + i * ancho for p in posiciones],
                 valores,
                 width=ancho,
-                label=tipo
+                label=tipo,
+                color=colores[i % len(colores)]
                 
             )
 
